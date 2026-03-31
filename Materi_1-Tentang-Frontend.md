@@ -475,6 +475,7 @@ Contoh sederhana dari DOM adalah sebagai berikut:
 
 Dalam contoh ini, elemen `<html>` adalah node root dari pohon DOM. Setiap elemen lain, seperti `<head>`, `<title>`, `<body>`, `<h1>`, dan `<p>`, adalah node yang ditambahkan ke pohon.
 
+
 ### Cara Mengakses Elemen DOM
 
 Anda dapat mengakses elemen DOM menggunakan JavaScript dengan beberapa cara:
@@ -486,39 +487,88 @@ Anda dapat mengakses elemen DOM menggunakan JavaScript dengan beberapa cara:
 5. **querySelectorAll()**: Mengambil semua elemen yang cocok dengan selector CSS.
 
 Dokumentasi lengkap tentang cara mengakses elemen DOM dapat ditemukan di [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction).
+
+### Kelemahan Manipulasi DOM Manual
+Menguasai DOM murni memang penting untuk fondasi, tapi untuk aplikasi skala besar seperti media sosial, melakukan manipulasi DOM secara manual punya banyak kelemahan:
+
+Sangat Lambat (Performance Issue): Mengubah DOM secara manual memaksa browser untuk menghitung ulang tata letak (reflow) dan melukis ulang (repaint) seluruh elemen yang terdampak. Ini memakan banyak resource.
+
+Kode Berantakan (Spaghetti Code): Bayangkan kalian punya 10 tombol yang masing-masing merubah warna teks, menyembunyikan div, dan memunculkan modal. Kodenya akan dipenuhi document.getElementById dan addEventListener yang saling tumpang tindih.
+
+Sulit Melacak State: Susah memastikan apakah tampilan di layar (View) sudah benar-benar sinkron dengan data yang ada di background (State).
+
+Karena alasan-alasan inilah, industri beralih ke Framework/Library modern yang menggunakan konsep Virtual DOM, di mana kita cukup peduli pada "datanya" saja, dan biarkan alat yang mengurus update UI-nya secara otomatis.
+
 ---
 
-## AJAX dan Fetch API
+## Fetch API dan Axios (Mengambil Data dari Server)
 
-AJAX (Asynchronous JavaScript and XML) adalah teknik pengiriman dan pengambilan data dari server tanpa memuat ulang halaman web. Ini memungkinkan aplikasi web untuk memperbarui konten secara dinamis tanpa mengganggu pengalaman pengguna.
+Konsep mengambil dan mengirim data ke server tanpa memuat ulang (*reload*) halaman web sering disebut dengan istilah **AJAX** (*Asynchronous JavaScript and XML*). 
 
-Sebagai contoh, ketika Anda mengirim formulir, Anda tidak perlu memuat ulang halaman untuk menampilkan pesan sukses atau kesalahan. Sebaliknya, Anda dapat menggunakan AJAX untuk mengirim permintaan ke server, menerima respons, dan memperbarui halaman sesuai dengan respons tersebut.
+Zaman dulu, *developer* harus menulis kode `XMLHttpRequest` yang panjang, kaku, dan rawan *bug* untuk melakukan ini. Tapi tenang saja, sekarang kita sudah hidup di era modern! Untuk berkomunikasi dengan *server* dan API, industri saat ini menggunakan dua senjata utama: **Fetch API** dan **Axios**.
 
-Fetch API adalah API baru yang diperkenalkan dalam JavaScript modern untuk mengambil dan mengirim data melalui jaringan. Ia menyediakan antarmuka yang jelas dan mudah digunakan untuk mengambil sumber daya dari jaringan.
 
-Contoh penggunaan Fetch API:
 
-```javascript
-fetch("https://api.example.com/data")
-    .then((response) => response.json())
-    .then((data) => console.log(data))
-    .catch((error) => console.error(error));
-```
+---
 
-Dalam contoh ini, kita menggunakan fetch() untuk mengambil data dari URL tertentu. Kemudian, kita menggunakan .then() untuk menangani respons yang diterima, dan .catch() untuk menangani kesalahan yang terjadi.
+### Fetch API (Bawaan Browser)
 
-Contoh penggunaan AJAX:
+**Fetch API** adalah fitur bawaan (*native*) dari JavaScript modern. Kalian tidak perlu menginstal *library* apa pun untuk menggunakannya. Ia bekerja menggunakan *Promise*, sehingga sangat cocok digabungkan dengan sintaks `.then().catch()` atau `async/await`.
+
+**Contoh penggunaan Fetch API:**
 
 ```javascript
-const xhr = new XMLHttpRequest();
-xhr.open("GET", "https://api.example.com/data", true);
-xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4 && xhr.status === 200) {
-        console.log(JSON.parse(xhr.responseText));
+fetch("[https://api.example.com/data](https://api.example.com/data)")
+  .then((response) => {
+    // Fetch tidak otomatis mengubah respons menjadi JSON, kita harus melakukannya manual
+    if (!response.ok) {
+      throw new Error("Gagal mengambil data dari server");
     }
-};
-xhr.send();
+    return response.json(); 
+  })
+  .then((data) => {
+    console.log("Data berhasil diambil:", data);
+  })
+  .catch((error) => {
+    console.error("Ada masalah:", error);
+  });
 ```
+Kekurangan Fetch API: > * Kita harus melakukan dua proses terpisah (menangkap respons, lalu mengubahnya menjadi .json()).
+
+Fetch tidak otomatis masuk ke blok .catch() kalau ada error HTTP dari server (misal: error 404 Not Found atau 500 Internal Server Error). Ia hanya akan memicu error kalau koneksi internet pengguna benar-benar terputus.
+
+### Axios
+Karena beberapa "kerepotan" pada Fetch API, komunitas frontend sering kali memilih menggunakan library tambahan bernama Axios. Axios adalah klien HTTP berbasis Promise yang sangat populer dan menjadi standar industri di ekosistem React maupun Vue.
+
+Kelebihan Axios dibandingkan Fetch:
+
+Otomatis Parsing JSON: Data dari server otomatis diubah menjadi objek JavaScript, tidak perlu lagi memanggil .json().
+
+Error Handling Lebih Cerdas: Semua status kode HTTP di luar 2xx (sukses) akan langsung dilempar ke dalam blok .catch().
+
+Fitur Lanjutan: Mendukung pembatalan request (cancel request), interceptors, dan perlindungan keamanan ekstra.
+
+Contoh penggunaan Axios:
+
+```
+// Harus diinstal terlebih dahulu via terminal: npm install axios
+import axios from 'axios';
+
+axios.get("[https://api.example.com/data](https://api.example.com/data)")
+  .then((response) => {
+    // Data otomatis berupa JSON dan berada di dalam properti .data
+    console.log("Data berhasil diambil:", response.data);
+  })
+  .catch((error) => {
+    console.error("Terjadi kesalahan:", error.message);
+  });
+```
+
+### Praktik Latihan: Mengonsumsi API
+Meneruskan dari materi sebelumnya, kita akan menggunakan Fetch API atau Axios untuk memperbarui aplikasi Note App yang telah kita buat.
+
+Dalam study case ini, kita tidak lagi menyimpan data di penyimpanan lokal sementara, melainkan akan berlatih mengirim catatan (POST) ke server dan memuat daftar catatan (GET) dari server.
+
 
 Dalam contoh ini, kita menggunakan XMLHttpRequest untuk mengirim permintaan GET ke URL tertentu. Kemudian, kita menggunakan onreadystatechange untuk menangani respons yang diterima.
 
