@@ -594,20 +594,6 @@ Meskipun jQuery sangat populer, namun pengembangan web masih memiliki banyak mas
 
 Setiap framework memiliki kelebihan dan kekurangan tersendiri. Angular adalah framework yang sangat kuat dan lengkap, namun memiliki kurva belajar yang tinggi. Next JS adalah framework yang sangat populer untuk pengembangan web dengan React. Vue adalah framework yang sangat mudah dipelajari dan digunakan, namun kurang populer dibandingkan Angular dan React.
 
-### Package Manager
-
-Sebelum kita masuk ke dalam Framework Frontend, kita akan mempelajari terlebih dahulu tentang Package Manager. Package Manager adalah alat yang digunakan untuk mengelola dependensi dan paket dalam proyek perangkat lunak. Ia memungkinkan Anda untuk menginstal, menghapus, dan mengelola paket-paket yang diperlukan dalam proyek Anda.
-
-Ada banyak package manager yang tersedia, namun yang paling populer adalah npm (Node Package Manager) dan Yarn. npm adalah package manager bawaan untuk Node.js, sedangkan Yarn adalah package manager yang dikembangkan oleh Facebook.
-
-![Package Manager](assets/modul-1/2-6.png)
-
-PNPM adalah package manager yang dikembangkan oleh Zoltan Kochan. Ia menawarkan kecepatan yang lebih tinggi daripada npm dan Yarn, serta penggunaan ruang disk yang lebih efisien.
-
-### Mengenal Vite
-Sebelum kalian ngoding React, kalian butuh Build Tool untuk merakit kode-kode komponen kalian agar bisa dibaca browser. Di sinilah Vite (dibaca: "vit", bahasa Prancis untuk "cepat") masuk.
-
-Vite adalah frontend tooling generasi baru yang super cepat. Kalau dulu orang bikin proyek React pakai Create React App (CRA) yang berat dan lambat saat loading, sekarang hampir seluruh industri berpindah ke Vite karena waktu server berjalannya (cold start) yang instan berkat pemanfaatan modul ES asli dari browser.
 ### Library vs Framework
 
 ![Library vs Framework](assets/modul-1/2-5.webp)
@@ -622,7 +608,69 @@ Contoh library: jQuery, Lodash, Moment.js, React JS.
 
 Contoh framework: Angular, Vue, Next JS
 
+### Package Manager
 
+Sebelum kita masuk ke dalam Framework Frontend, kita akan mempelajari terlebih dahulu tentang Package Manager. Package Manager adalah alat yang digunakan untuk mengelola dependensi dan paket dalam proyek perangkat lunak. Ia memungkinkan Anda untuk menginstal, menghapus, dan mengelola paket-paket yang diperlukan dalam proyek Anda.
+
+Ada banyak package manager yang tersedia, namun yang paling populer adalah npm (Node Package Manager) dan Yarn. npm adalah package manager bawaan untuk Node.js, sedangkan Yarn adalah package manager yang dikembangkan oleh Facebook.
+
+![Package Manager](assets/modul-1/2-6.png)
+
+PNPM adalah package manager yang dikembangkan oleh Zoltan Kochan. Ia menawarkan kecepatan yang lebih tinggi daripada npm dan Yarn, serta penggunaan ruang disk yang lebih efisien.
+
+### Mengenal Vite
+Sebelum kalian ngoding React, kalian butuh Build Tool untuk merakit kode-kode komponen kalian agar bisa dibaca browser. Di sinilah Vite (dibaca: "vit", bahasa Prancis untuk "cepat") masuk.
+
+Vite adalah frontend tooling generasi baru yang super cepat. Kalau dulu orang bikin proyek React pakai Create React App (CRA) yang berat dan lambat saat loading, sekarang hampir seluruh industri berpindah ke Vite karena waktu server berjalannya (cold start) yang instan berkat pemanfaatan modul ES asli dari browser.
+
+
+### 🎨 Styling Modern: Mengenal Tailwind CSS
+
+Setelah memahami struktur (HTML) dan logika (JavaScript), tahap berikutnya adalah aspek visual atau *styling*. Dalam industri pengembangan perangkat lunak saat ini, menulis CSS secara manual di file terpisah sering kali dianggap kurang efisien untuk proyek berskala besar. Hal inilah yang melatarbelakangi lahirnya **Tailwind CSS**.
+
+Tailwind adalah sebuah *Utility-first CSS framework*. Berbeda dengan framework seperti Bootstrap yang menyediakan komponen jadi (seperti `.btn`), Tailwind menyediakan kelas-kelas utilitas kecil yang spesifik sehingga pengembang dapat membangun komponen kustom langsung di dalam file HTML atau JSX.
+
+* **Pendekatan Konvensional (Vanilla CSS):** Pengembang harus membuat file `.css` terpisah, menentukan nama kelas, lalu menulis properti satu per satu.
+* **Pendekatan Tailwind CSS:** Pengembang langsung menyematkan kelas utilitas pada elemen yang diinginkan.
+
+**Contoh Implementasi Tombol dengan Tailwind CSS:**
+
+```jsx
+<button className="bg-sky-500 hover:bg-sky-700 text-white font-bold py-2 px-4 rounded">
+  Klik Saya
+</button>
+```
+Keunggulan Tailwind CSS:
+
+Efisiensi Waktu: Proses desain UI dilakukan bersamaan dengan penulisan struktur kode tanpa perlu berpindah antar file.
+
+Sistem yang Konsisten: Ukuran padding, margin, dan palet warna sudah terstandarisasi, sehingga menjaga konsistensi visual di seluruh aplikasi.
+
+Optimalisasi Ukuran File: Tailwind hanya akan menyertakan kelas-kelas yang digunakan pada tahap produksi, sehingga ukuran file akhir menjadi sangat kecil.
+
+
+
+
+### Pengenalan Dasar React
+React bukan sekadar sebuah pustaka (library), melainkan sebuah cara pandang baru dalam membangun aplikasi. React meninggalkan cara lama dalam manipulasi DOM secara manual dan beralih pada pendekatan yang berfokus pada Data dan Komponen.
+
+Terdapat empat konsep fundamental yang menjadi pilar utama dalam React:
+
+1. Komponen (Components)
+Aplikasi web dipecah menjadi bagian-bagian kecil yang dapat digunakan kembali (reusable), seperti Sidebar, TweetCard, atau CommentBox. Konsep ini mirip dengan menyusun balok-balok bangunan untuk membentuk satu kesatuan aplikasi.
+
+2. JSX (JavaScript XML)
+JSX adalah ekstensi sintaks JavaScript yang memungkinkan pengembang menulis struktur kode yang menyerupai HTML di dalam file JavaScript. Ini memberikan fleksibilitas penuh dalam menggabungkan logika pemrograman dengan tampilan antarmuka.
+
+3. Props (Properti)
+Props merupakan mekanisme untuk mengirimkan data dari komponen induk ke komponen anak. Dalam konteks fungsi JavaScript, Props dapat dianalogikan sebagai parameter yang menentukan apa yang akan ditampilkan oleh komponen tersebut.
+
+4. State (Status)
+State adalah data internal dalam sebuah komponen yang dapat berubah seiring waktu.
+
+Prinsip Dasar React: UI adalah representasi dari State. Jika data (State) berubah, maka tampilan (UI) akan diperbarui secara otomatis. React menggunakan Virtual DOM untuk mendeteksi perubahan tersebut dan melakukan pembaruan secara efisien tanpa memuat ulang seluruh halaman.
+
+---
 ### Praktik Latihan Library Frontend
 
 Sebelumnya kita telah membuat sebuah aplikasi note app sederhana menggunakan HTML, CSS, dan JavaScript. Sekarang, kita akan memperbarui aplikasi tersebut dengan menggunakan library frontend.
@@ -632,20 +680,6 @@ Dalam study case ini, kita akan menggunakan React JS untuk memperbarui aplikasi 
 Kenapa tidak langsung menggunakan framework? Karena dengan menggunakan library kita bisa lebih memahami konsep dasar dari pengembangan web. Setelah kita memahami konsep dasar, kita dapat mempelajari framework dengan lebih mudah.
 
 Selamat Menonton :)
-
----
-
-### Pengenalan Dasar React
-Karena kita akan menggunakan React di tugas kita, mari kita pahami dulu 4 pilar utama cara kerja React:
-
-Komponen (Components): UI dipecah menjadi potongan-potongan kecil yang bisa digunakan ulang. Alih-alih membuat 1 halaman penuh HTML, kita membuat potongan <Navbar />, <PostCard />, dan <Button />.
-
-JSX: Sintaks ekstensi JavaScript yang mengizinkan kita menulis kode mirip HTML di dalam JavaScript.
-
-Props: Cara kita mengoper data dari komponen bapak (induk) ke komponen anak. Ibarat parameter dalam sebuah fungsi.
-
-State (useState): Ini adalah nyawa dari interaktivitas. State adalah tempat kita menyimpan data yang bisa berubah-ubah di dalam komponen (misalnya: daftar tweet yang baru diposting, atau status tombol Like). Saat data di state berubah, React akan otomatis merender ulang bagian UI yang terkait tanpa me-refresh halaman!
-
 # Tugas
 
 Buatlah aplikasi media sosial berbasis teks (seperti Twitter, Reddit, atau X) dengan ketentuan minimal sebagai berikut:
