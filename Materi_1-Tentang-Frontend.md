@@ -486,17 +486,6 @@ Anda dapat mengakses elemen DOM menggunakan JavaScript dengan beberapa cara:
 5. **querySelectorAll()**: Mengambil semua elemen yang cocok dengan selector CSS.
 
 Dokumentasi lengkap tentang cara mengakses elemen DOM dapat ditemukan di [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction).
-
-### Praktik Latihan DOM
-
-Untuk memperdalam pemahaman tentang DOM, Kita telah menyiapkan sebuah study case sederhana yaitu membuat sebuah note app sederhana. Dalam study case ini, Kita akan menggunakan HTML, CSS, dan JavaScript untuk membuat aplikasi web yang memungkinkan pengguna menambahkan, menghapus, dan menyimpan catatan.
-
-Tentunya untuk aplikasi kali ini kita buat menggunakan konsep DOM yang telah kita pelajari sebelumnya.
-
-### Summary
-
-Dari praktik latihan dan pembahasan materi diatas kita bisa tahu bahwa DOM berperan untuk melakukan update secara terus menerus pada halaman web kita. Dengan menggunakan DOM kita bisa membuat aplikasi yang dinamis dan interaktif.
-
 ---
 
 ## AJAX dan Fetch API
@@ -565,6 +554,10 @@ Ada banyak package manager yang tersedia, namun yang paling populer adalah npm (
 
 PNPM adalah package manager yang dikembangkan oleh Zoltan Kochan. Ia menawarkan kecepatan yang lebih tinggi daripada npm dan Yarn, serta penggunaan ruang disk yang lebih efisien.
 
+### Mengenal Vite
+Sebelum kalian ngoding React, kalian butuh Build Tool untuk merakit kode-kode komponen kalian agar bisa dibaca browser. Di sinilah Vite (dibaca: "vit", bahasa Prancis untuk "cepat") masuk.
+
+Vite adalah frontend tooling generasi baru yang super cepat. Kalau dulu orang bikin proyek React pakai Create React App (CRA) yang berat dan lambat saat loading, sekarang hampir seluruh industri berpindah ke Vite karena waktu server berjalannya (cold start) yang instan berkat pemanfaatan modul ES asli dari browser.
 ### Library vs Framework
 
 ![Library vs Framework](assets/modul-1/2-5.webp)
@@ -579,6 +572,7 @@ Contoh library: jQuery, Lodash, Moment.js, React JS.
 
 Contoh framework: Angular, Vue, Next JS
 
+
 ### Praktik Latihan Library Frontend
 
 Sebelumnya kita telah membuat sebuah aplikasi note app sederhana menggunakan HTML, CSS, dan JavaScript. Sekarang, kita akan memperbarui aplikasi tersebut dengan menggunakan library frontend.
@@ -590,6 +584,17 @@ Kenapa tidak langsung menggunakan framework? Karena dengan menggunakan library k
 Selamat Menonton :)
 
 ---
+
+### Pengenalan Dasar React
+Karena kita akan menggunakan React di tugas kita, mari kita pahami dulu 4 pilar utama cara kerja React:
+
+Komponen (Components): UI dipecah menjadi potongan-potongan kecil yang bisa digunakan ulang. Alih-alih membuat 1 halaman penuh HTML, kita membuat potongan <Navbar />, <PostCard />, dan <Button />.
+
+JSX: Sintaks ekstensi JavaScript yang mengizinkan kita menulis kode mirip HTML di dalam JavaScript.
+
+Props: Cara kita mengoper data dari komponen bapak (induk) ke komponen anak. Ibarat parameter dalam sebuah fungsi.
+
+State (useState): Ini adalah nyawa dari interaktivitas. State adalah tempat kita menyimpan data yang bisa berubah-ubah di dalam komponen (misalnya: daftar tweet yang baru diposting, atau status tombol Like). Saat data di state berubah, React akan otomatis merender ulang bagian UI yang terkait tanpa me-refresh halaman!
 
 # Tugas
 
