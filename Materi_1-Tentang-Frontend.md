@@ -2,9 +2,9 @@
 
 - [Pengantar Frontend Developer](#pengantar-frontend-developer)
   - [Kenapa Memilih Frontend?](#kenapa-memilih-frontend)
-  - [🚀 Peluang Karir & Jejak Alumni ITS](#-peluang-karir--jejak-alumni-its)
-  - [🛠️ Apa aja sih yang harus dikuasai?](#️-apa-aja-sih-yang-harus-dikuasai)
-  - [📈 Apakah akan terus belajar Frontend? (Evolusi Skill)](#-apakah-akan-terus-belajar-frontend-evolusi-skill)
+  - [Peluang Karir & Jejak Alumni ITS](#-peluang-karir--jejak-alumni-its)
+  - [Apa aja sih yang harus dikuasai?](#️-apa-aja-sih-yang-harus-dikuasai)
+  - [Apakah akan terus belajar Frontend? (Evolusi Skill)](#-apakah-akan-terus-belajar-frontend-evolusi-skill)
   - [Paradigma Frontend Developer](#paradigma-frontend-developer)
     - [Procedural Programming](#procedural-programming)
     - [Object Oriented Programming](#object-oriented-programming)
