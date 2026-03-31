@@ -1,44 +1,30 @@
 # Pengantar Frontend **Developer**
 
--   [Pengantar Frontend **Developer**](#pengantar-frontend-developer)
-    -   [Kenapa harus memilih frontend?](#kenapa-harus-memilih-frontend)
-    -   [Apa aja sih peluang karir di frontend ?](#apa-aja-sih-peluang-karir-di-frontend-)
-        -   [Melihat karir alumni dan mahasiswa ITS di bidang Frontend](#melihat-karir-alumni-dan-mahasiswa-its-di-bidang-frontend)
-        -   [Apa aja sih yang harus dikuasai oleh seorang frontend **developer**?](#apa-aja-sih-yang-harus-dikuasai-oleh-seorang-frontend-developer)
-        -   [Apakah akan terus belajar Frontend ?](#apakah-akan-terus-belajar-frontend-)
-    -   [Paradigma Frontend Developer](#paradigma-frontend-developer)
-        -   [Procedural Programing](#procedural-programing)
-            -   [Karakteristik Utama PP](#karakteristik-utama-pp)
-            -   [Contoh Kode Program Procedural](#contoh-kode-program-procedural)
-        -   [Object Oriented Programing](#object-oriented-programing)
-            -   [Karakteristik Utama OOP](#karakteristik-utama-oop)
-        -   [Functional Programing](#functional-programing)
-            -   [Karakteristik Utama FP](#karakteristik-utama-fp)
-            -   [Contoh Kode Program Functional](#contoh-kode-program-functional)
-        -   [Perbandingan Procedural Programing Vs Object Oriented Programing Vs Functional Programing](#perbandingan-procedural-programing-vs-object-oriented-programing-vs-functional-programing)
-    -   [Mengenal Frontend lebih dekat](#mengenal-frontend-lebih-dekat)
-        -   [Fungsi dalam Frontend: Async, Sync, Callback, dan Lainnya](#fungsi-dalam-frontend-async-sync-callback-dan-lainnya)
-            -   [Fungsi Sinkron (Synchronous Function)](#fungsi-sinkron-synchronous-function)
-            -   [Fungsi Asinkron (Asynchronous Function)](#fungsi-asinkron-asynchronous-function)
-            -   [Fungsi Callback (Callback Function)](#fungsi-callback-callback-function)
-            -   [Promise Function](#promise-function)
-            -   [Generator Function](#generator-function)
-            -   [Arrow Function](#arrow-function)
-    -   [Data Object Manipulation (DOM)](#data-object-manipulation-dom)
-        -   [Bagaiamanakah cara kerja DOM?](#bagaiamanakah-cara-kerja-dom)
-        -   [Cara Mengakses Elemen DOM](#cara-mengakses-elemen-dom)
-        -   [Praktik Latihan DOM](#praktik-latihan-dom)
-        -   [Summary](#summary)
-    -   [AJAX dan Fetch API](#ajax-dan-fetch-api)
-        -   [Praktik Latihan AJAX dan Fetch API](#praktik-latihan-ajax-dan-fetch-api)
-    -   [Framework Frontend](#framework-frontend)
-        -   [History of Frontend Framework](#history-of-frontend-framework)
-        -   [Package Manager](#package-manager)
-        -   [Library vs Framework](#library-vs-framework)
-        -   [Praktik Latihan Library Frontend](#praktik-latihan-library-frontend)
-        -   [Perlu Bantuan?](#perlu-bantuan)
-    -   [Penutup](#penutup)
-    -   [Referensi](#referensi)
+- [Pengantar Frontend Developer](#pengantar-frontend-developer)
+  - [Kenapa Memilih Frontend?](#kenapa-memilih-frontend)
+  - [🚀 Peluang Karir & Jejak Alumni ITS](#-peluang-karir--jejak-alumni-its)
+  - [🛠️ Apa aja sih yang harus dikuasai?](#️-apa-aja-sih-yang-harus-dikuasai)
+  - [📈 Apakah akan terus belajar Frontend? (Evolusi Skill)](#-apakah-akan-terus-belajar-frontend-evolusi-skill)
+  - [Paradigma Frontend Developer](#paradigma-frontend-developer)
+    - [Procedural Programming](#procedural-programming)
+    - [Object Oriented Programming](#object-oriented-programming)
+    - [Functional Programming](#functional-programming)
+    - [Perbandingan Paradigma](#perbandingan-procedural-programming-vs-object-oriented-programming-vs-functional-programming)
+  - [Mengenal Frontend lebih dekat](#mengenal-frontend-lebih-dekat)
+    - [Fungsi dalam Frontend: Async, Sync, Callback, dan Lainnya](#fungsi-dalam-frontend-async-sync-callback-dan-lainnya)
+  - [Data Object Manipulation (DOM)](#data-object-manipulation-dom)
+    - [Bagaimanakah cara kerja DOM?](#bagaimanakah-cara-kerja-dom)
+    - [Kelemahan Manipulasi DOM Manual](#kelemahan-manipulasi-dom-manual)
+  - [Fetch API dan Axios](#fetch-api-dan-axios-mengambil-data-dari-server)
+  - [Framework Frontend](#framework-frontend)
+    - [Library vs Framework](#library-vs-framework)
+    - [Package Manager](#package-manager)
+    - [Mengenal Vite](#mengenal-vite)
+  - [Styling Modern: Mengenal Tailwind CSS](#-styling-modern-mengenal-tailwind-css)
+  - [Pengenalan Dasar React](#pengenalan-dasar-react)
+  - [Tugas](#tugas)
+  - [Penutup](#penutup)
+  - [Referensi](#referensi)
 
 # Pengantar Frontend Developer
 
@@ -509,8 +495,6 @@ Zaman dulu, *developer* harus menulis kode `XMLHttpRequest` yang panjang, kaku, 
 
 
 
----
-
 ### Fetch API (Bawaan Browser)
 
 **Fetch API** adalah fitur bawaan (*native*) dari JavaScript modern. Kalian tidak perlu menginstal *library* apa pun untuk menggunakannya. Ia bekerja menggunakan *Promise*, sehingga sangat cocok digabungkan dengan sintaks `.then().catch()` atau `async/await`.
@@ -624,7 +608,7 @@ Sebelum kalian ngoding React, kalian butuh Build Tool untuk merakit kode-kode ko
 Vite adalah frontend tooling generasi baru yang super cepat. Kalau dulu orang bikin proyek React pakai Create React App (CRA) yang berat dan lambat saat loading, sekarang hampir seluruh industri berpindah ke Vite karena waktu server berjalannya (cold start) yang instan berkat pemanfaatan modul ES asli dari browser.
 
 
-### 🎨 Styling Modern: Mengenal Tailwind CSS
+### Styling Modern: Mengenal Tailwind CSS
 
 Setelah memahami struktur (HTML) dan logika (JavaScript), tahap berikutnya adalah aspek visual atau *styling*. Dalam industri pengembangan perangkat lunak saat ini, menulis CSS secara manual di file terpisah sering kali dianggap kurang efisien untuk proyek berskala besar. Hal inilah yang melatarbelakangi lahirnya **Tailwind CSS**.
 
