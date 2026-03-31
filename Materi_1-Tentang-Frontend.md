@@ -488,12 +488,6 @@ Karena alasan-alasan inilah, industri beralih ke Framework/Library modern yang m
 
 ## Fetch API dan Axios (Mengambil Data dari Server)
 
-Konsep mengambil dan mengirim data ke server tanpa memuat ulang (*reload*) halaman web sering disebut dengan istilah **AJAX** (*Asynchronous JavaScript and XML*). 
-
-Zaman dulu, *developer* harus menulis kode `XMLHttpRequest` yang panjang, kaku, dan rawan *bug* untuk melakukan ini. Tapi tenang saja, sekarang kita sudah hidup di era modern! Untuk berkomunikasi dengan *server* dan API, industri saat ini menggunakan dua senjata utama: **Fetch API** dan **Axios**.
-
-
-
 ### Fetch API (Bawaan Browser)
 
 **Fetch API** adalah fitur bawaan (*native*) dari JavaScript modern. Kalian tidak perlu menginstal *library* apa pun untuk menggunakannya. Ia bekerja menggunakan *Promise*, sehingga sangat cocok digabungkan dengan sintaks `.then().catch()` atau `async/await`.
@@ -554,12 +548,6 @@ Dalam study case ini, kita tidak lagi menyimpan data di penyimpanan lokal sement
 
 
 Dalam contoh ini, kita menggunakan XMLHttpRequest untuk mengirim permintaan GET ke URL tertentu. Kemudian, kita menggunakan onreadystatechange untuk menangani respons yang diterima.
-
-### Praktik Latihan AJAX dan Fetch API
-
-Meneruskan dari materi sebelumnya, kita akan menggunakan AJAX dan Fetch API untuk memperbarui aplikasi note app yang telah kita buat sebelumnya. Dalam study case ini, kita akan menggunakan AJAX atau Fetch API untuk menyimpan catatan ke server dan memuat catatan dari server.
-
-Dalam hal ini untuk API sudah kita sediakan dan kita hanya perlu menggunakannya saja.
 
 ---
 
