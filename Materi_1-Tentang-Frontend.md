@@ -40,47 +40,76 @@
     -   [Penutup](#penutup)
     -   [Referensi](#referensi)
 
-## Kenapa harus memilih frontend?
- Pengantar Frontend Developer
-Kenapa Memilih Frontend?
-Mengapa Frontend Development bisa jadi batu loncatan karir yang sangat menjanjikan?
-Pertama, Frontend adalah jendela utama. Sehebat apapun arsitektur backend atau sekompleks apapun database yang ada di belakangnya, pengguna hanya akan berinteraksi dengan apa yang ada di layar mereka. Tampilan yang menarik, responsif, dan UX (User Experience) yang mulus adalah penentu utama apakah sebuah produk digital akan sukses atau malah ditinggalkan.
-Menjadi seorang Frontend Developer memang berarti kita membuat UI yang akan dirasakan oleh banyak user. Tapi kalau didalamin lagi, kita sebenarnya sedang melatih beberapa hal krusial:
-Problem Solving & Empati: Kamu belajar memahami apa yang memudahkan pengguna. Ini bikin kamu jadi engineer yang berpusat pada solusi, bukan sekadar penulis kode.
-Adaptabilitas Tinggi: Ekosistem Frontend bergerak sangat cepat. Ini menuntut kita untuk terus belajar dan beradaptasi dengan teknologi baru.
-Sentuhan Manusia (Craftsmanship): Walaupun AI sekarang makin canggih buat nulis kode atau generate struktur dasar, sentuhan craftsmanship untuk bikin animasi yang pas, aksesibilitas yang baik, dan feel aplikasi yang nyaman masih sangat membutuhkan insting manusia.
-Nah, itu adalah beberapa skill set dasar yang mungkin kalau misalnya nanti kamu nggak jadi frontend developer pun, bakal tetap kepakai di bidang lainnya.
-Peluang Karir & Jejak Alumni ITS
-Banyak yang nanya, "Kalau fokus di Frontend, jenjang karirnya ke mana sih?" Dilansir dari berbagai tech blog dan standar industri, karir seorang Frontend Engineer umumnya punya tahapan kayak gini:
-Junior Frontend Developer: Fokus pada eksekusi tugas, menerjemahkan desain (Figma) menjadi komponen kode, dan bug fixing.
-Middle Frontend Developer: Mulai memikirkan optimasi, memimpin fitur tertentu, dan membimbing junior.
-Senior Frontend Developer: Merancang arsitektur aplikasi di sisi klien, memikirkan performa, keamanan, dan standar engineering tim.
-Frontend Software Architect: Menentukan tech stack perusahaan, merancang design system lintas platform, dan menyelesaikan masalah teknikal di level bisnis.
-Di lingkungan kampus kita sendiri, udah banyak kating dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
+# Pengantar Frontend Developer
 
+## Kenapa Memilih Frontend?
 
-(dan lain-lain)
+Mengapa *Frontend Development* bisa jadi batu loncatan karir yang sangat menjanjikan? 
+
+Pertama, **Frontend adalah jendela utama**. Sehebat apapun arsitektur *backend* atau sekompleks apapun *database* yang ada di belakangnya, pengguna hanya akan berinteraksi dengan apa yang ada di layar mereka. Tampilan yang menarik, responsif, dan UX (*User Experience*) yang mulus adalah penentu utama apakah sebuah produk digital akan sukses atau malah ditinggalkan.
+
+Menjadi seorang *Frontend Developer* memang berarti kita membuat UI yang akan dirasakan oleh banyak *user*. Tapi kalau didalamin lagi, kita sebenarnya sedang melatih beberapa hal krusial:
+
+* **Problem Solving & Empati:** Kamu belajar memahami apa yang memudahkan pengguna. Ini bikin kamu jadi *engineer* yang berpusat pada solusi, bukan sekadar penulis kode.
+* **Adaptabilitas Tinggi:** Ekosistem Frontend bergerak sangat cepat. Ini menuntut kita untuk terus belajar dan beradaptasi dengan teknologi baru.
+* **Sentuhan Manusia (*Craftsmanship*):** Walaupun AI sekarang makin canggih buat nulis kode atau *generate* struktur dasar, sentuhan *craftsmanship* untuk bikin animasi yang pas, aksesibilitas yang baik, dan *feel* aplikasi yang nyaman masih sangat membutuhkan insting manusia.
+
+Nah, itu adalah beberapa *skill set* dasar yang mungkin kalau misalnya nanti kamu nggak jadi *frontend developer* pun, bakal tetap kepakai di bidang lainnya.
+
+---
+
+## 🚀 Peluang Karir & Jejak Alumni ITS
+
+Banyak yang nanya, *"Kalau fokus di Frontend, jenjang karirnya ke mana sih?"* Dilansir dari berbagai *tech blog* dan standar industri, karir seorang *Frontend Engineer* umumnya punya tahapan kayak gini:
+
+* **Junior Frontend Developer:** Fokus pada eksekusi tugas, menerjemahkan desain (Figma) menjadi komponen kode, dan *bug fixing*.
+* **Middle Frontend Developer:** Mulai memikirkan optimasi, memimpin fitur tertentu, dan membimbing *junior*.
+* **Senior Frontend Developer:** Merancang arsitektur aplikasi di sisi klien, memikirkan performa, keamanan, dan standar *engineering* tim.
+* **Frontend Software Architect:** Menentukan *tech stack* perusahaan, merancang *design system* lintas platform, dan menyelesaikan masalah teknikal di level bisnis.
+
+Di lingkungan kampus kita sendiri, udah banyak *kating* dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
+
+* *(Isi dengan nama alumni 1)*
+* *(Isi dengan nama alumni 2)*
+* *(dan lain-lain)*
+
 Jejak mereka ngebuktiin kalau fondasi yang kalian bangun di bangku kuliah, kalau ditekuni, bisa ngebawa kalian ke industri teknologi terdepan. Jadi, jangan ragu buat totalitas di sini!
-Apa aja sih yang harus dikuasai?
-Untuk menjadi seorang frontend developer, ada beberapa teknologi wajib yang harus dikuasai:
-HTML
-CSS
-JavaScript
-Framework (React, Angular, Vue, dll.)
-Version Control (Git)
-Yang tentunya, teman-teman sudah pelajari dasar-dasarnya di mata kuliah Pemrograman Web.
-Apakah akan terus belajar Frontend? (Evolusi Skill)
-Pas awal-awal mulai mendalami Frontend, mungkin kalian bakal ngerasa overwhelmed (kewalahan) sama banyaknya hal yang harus dipelajari. Mulai dari CSS, Framework, State Management, sampai Build Tools.
-Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil developer. Evolusinya kira-kira dari I, T, N, lalu M:
-1. I-Shaped (Sang Spesialis Murni) Ini adalah developer yang punya pengetahuan sangat dalam di satu bidang spesifik (garis vertikal I), tapi kurang memiliki pemahaman di luar bidangnya. Misalnya, jago banget nge-React, tapi bingung kalau diajak diskusi soal cara kerja database atau dasar desain UI/UX.
-2. T-Shaped (Target Awal Kita!) Ini adalah standar emas untuk developer modern dan menjadi target utama kalian saat ini.
-Garis Horizontal (Broad Knowledge): Paham dasar-dasar dari berbagai bidang pendukung. Tahu sedikit tentang Backend (cara API bekerja), paham dasar Database, dan mengerti prinsip dasar UI/UX.
-Garis Vertikal (Deep Expertise): Punya satu spesialisasi yang dikuasai secara mendalam. Misalnya, keahlian utamamu adalah Frontend Web Development (menguasai ekosistem React, manipulasi DOM, manajemen state kompleks, dan optimasi performa web).
-Kenapa harus T-Shaped? Karena di dunia kerja nyata, kamu nggak bekerja sendirian. Tahu sedikit tentang Backend bikin kamu lebih gampang diskusi sama tim Backend. Tahu sedikit tentang desain bikin kamu lebih sejalan dengan tim UI/UX.
-3. N-Shaped Kalau sudah mantap di T-Shaped, kamu bisa berevolusi nambah satu kaki keahlian vertikal lagi. Contohnya: Kamu adalah seorang expert di Frontend Development (kaki pertama) DAN juga expert di ranah UI/UX Design (kaki kedua). Kamu jadi jembatan maut antara desainer dan programmer.
-4. M-Shaped / Comb-Shaped (Sang Multi-Spesialis) Punya banyak "tiang" spesialisasi yang mendalam. Biasanya ini adalah level Senior Fullstack Developer atau Tech Lead. Jago bikin frontend yang interaktif, jago ngerancang arsitektur backend yang scalable, dan jago deploy aplikasi (DevOps).
-Pada akhirnya, nggak ada yang salah mau jadi kayak gimana. Ini kan pada dasarnya sama aja kayak milih antara mau jadi spesialis atau generalis, dan itu murni pilihan. Tapi kalau untuk aku pribadi, di awal-awal mending fokus jadi T-Shaped dulu aja. Tau sedikit tentang bidang yang lain, tapi pastiin ada 1 bidang yang benar-benar didalemin.
 
+---
+
+## 🛠️ Apa aja sih yang harus dikuasai?
+
+Untuk menjadi seorang *frontend developer*, ada beberapa teknologi wajib yang harus dikuasai:
+
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **Framework** (React, Angular, Vue, dll.)
+* **Version Control** (Git)
+
+Yang tentunya, teman-teman sudah pelajari dasar-dasarnya di mata kuliah Pemrograman Web.
+
+---
+
+## 📈 Apakah akan terus belajar Frontend? (Evolusi Skill)
+
+Pas awal-awal mulai mendalami Frontend, mungkin kalian bakal ngerasa *overwhelmed* (kewalahan) sama banyaknya hal yang harus dipelajari. Mulai dari CSS, Framework, State Management, sampai Build Tools.
+
+Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil *developer*. Evolusinya kira-kira dari **I, T, N, lalu M**:
+
+* **1. I-Shaped (Sang Spesialis Murni)** Ini adalah *developer* yang punya pengetahuan sangat dalam di satu bidang spesifik (garis vertikal I), tapi kurang memiliki pemahaman di luar bidangnya. Misalnya, jago banget nge-React, tapi bingung kalau diajak diskusi soal cara kerja *database* atau dasar desain UI/UX.
+
+* **2. T-Shaped (Target Awal Kita!)** Ini adalah standar emas untuk *developer* modern dan menjadi target utama kalian saat ini.
+  * **Garis Horizontal (Broad Knowledge):** Paham dasar-dasar dari berbagai bidang pendukung. Tahu sedikit tentang *Backend* (cara API bekerja), paham dasar *Database*, dan mengerti prinsip dasar UI/UX.
+  * **Garis Vertikal (Deep Expertise):** Punya satu spesialisasi yang dikuasai secara mendalam. Misalnya, keahlian utamamu adalah *Frontend Web Development* (menguasai ekosistem React, manipulasi DOM, manajemen *state* kompleks, dan optimasi performa web).
+  
+  > **Kenapa harus T-Shaped?** Karena di dunia kerja nyata, kamu nggak bekerja sendirian. Tahu sedikit tentang *Backend* bikin kamu lebih gampang diskusi sama tim *Backend*. Tahu sedikit tentang desain bikin kamu lebih sejalan dengan tim UI/UX.
+
+* **3. N-Shaped** Kalau sudah mantap di T-Shaped, kamu bisa berevolusi nambah satu kaki keahlian vertikal lagi. Contohnya: Kamu adalah seorang *expert* di *Frontend Development* (kaki pertama) **DAN** juga *expert* di ranah UI/UX Design (kaki kedua). Kamu jadi jembatan maut antara desainer dan *programmer*.
+
+* **4. M-Shaped / Comb-Shaped (Sang Multi-Spesialis)** Punya banyak "tiang" spesialisasi yang mendalam. Biasanya ini adalah level *Senior Fullstack Developer* atau *Tech Lead*. Jago bikin *frontend* yang interaktif, jago ngerancang arsitektur *backend* yang *scalable*, dan jago *deploy* aplikasi (DevOps).
+
+Pada akhirnya, nggak ada yang salah mau jadi kayak gimana. Ini kan pada dasarnya sama aja kayak milih antara mau jadi spesialis atau generalis, dan itu murni pilihan. Tapi kalau untuk aku pribadi, di awal-awal mending fokus jadi **T-Shaped** dulu aja. Tau sedikit tentang bidang yang lain, tapi pastiin ada 1 bidang yang benar-benar didalemin.
 
 ## Paradigma Frontend Developer
 
