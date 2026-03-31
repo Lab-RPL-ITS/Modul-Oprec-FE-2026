@@ -22,7 +22,6 @@
     - [Mengenal Vite](#mengenal-vite)
   - [Styling Modern: Mengenal Tailwind CSS](#-styling-modern-mengenal-tailwind-css)
   - [Pengenalan Dasar React](#pengenalan-dasar-react)
-  - [Tugas](#tugas)
   - [Penutup](#penutup)
   - [Referensi](#referensi)
 
@@ -664,26 +663,6 @@ Dalam study case ini, kita akan menggunakan React JS untuk memperbarui aplikasi 
 Kenapa tidak langsung menggunakan framework? Karena dengan menggunakan library kita bisa lebih memahami konsep dasar dari pengembangan web. Setelah kita memahami konsep dasar, kita dapat mempelajari framework dengan lebih mudah.
 
 Selamat Menonton :)
-# Tugas
-
-Buatlah aplikasi media sosial berbasis teks (seperti Twitter, Reddit, atau X) dengan ketentuan minimal sebagai berikut:
-
-1. Memungkinkan pengguna untuk membuat postingan (create).
-2. Memungkinkan pengguna untuk menghapus postingan.
-3. Menampilkan daftar semua postingan yang telah dibuat.
-
-Namun, akan lebih baik jika Anda dapat mengimplementasikan fitur tambahan berikut:
-
-1. Fitur untuk mengubah atau mengedit postingan.
-2. Fitur like pada setiap postingan.
-3. Penggunaan `localStorage` atau `sessionStorage` untuk penyimpanan data.
-
-Berikut adalah batasan-batasan yang perlu diperhatikan dalam mengerjakan tugas ini:
-
-1. Tidak diperkenankan menggunakan library atau framework eksternal, kecuali React, Vue, dan sejenisnya.
-2. Tidak diperbolehkan menggunakan Tailwind CSS, harap menggunakan Vanilla CSS.
-3. Tidak boleh menggunakan API; penyimpanan data dapat dilakukan menggunakan state atau `localStorage`.
-4. DILARANG melakukan plagiat atau menggunakan AI (seperti ChatGPT, dan lainnya).
 
 ### Perlu Bantuan?
 
