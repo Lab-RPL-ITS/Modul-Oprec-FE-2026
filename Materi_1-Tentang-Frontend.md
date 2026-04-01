@@ -5,6 +5,7 @@
   - [Peluang Karir & Jejak Alumni ITS](#-peluang-karir--jejak-alumni-its)
   - [Apa aja sih yang harus dikuasai?](#️-apa-aja-sih-yang-harus-dikuasai)
   - [Apakah akan terus belajar Frontend? (Evolusi Skill)](#-apakah-akan-terus-belajar-frontend-evolusi-skill)
+  - [Apakah Frontend Masih Relevan? Akankah Digantikan oleh AI?](#-apakah-frontend-masih-relevan-akankah-digantikan-oleh-ai)
   - [Paradigma Frontend Developer](#paradigma-frontend-developer)
     - [Procedural Programming](#procedural-programming)
     - [Object Oriented Programming](#object-oriented-programming)
