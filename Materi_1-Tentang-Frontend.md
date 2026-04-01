@@ -30,46 +30,46 @@
 
 ## Kenapa Memilih Frontend?
 
-Mengapa *Frontend Development* bisa jadi batu loncatan karir yang sangat menjanjikan? 
+Mengapa _Frontend Development_ bisa jadi batu loncatan karir yang sangat menjanjikan?
 
-Pertama, **Frontend adalah jendela utama**. Sehebat apapun arsitektur *backend* atau sekompleks apapun *database* yang ada di belakangnya, pengguna hanya akan berinteraksi dengan apa yang ada di layar mereka. Tampilan yang menarik, responsif, dan UX (*User Experience*) yang mulus adalah penentu utama apakah sebuah produk digital akan sukses atau malah ditinggalkan.
+Pertama, **Frontend adalah jendela utama**. Sehebat apapun arsitektur _backend_ atau sekompleks apapun _database_ yang ada di belakangnya, pengguna hanya akan berinteraksi dengan apa yang ada di layar mereka. Tampilan yang menarik, responsif, dan UX (_User Experience_) yang mulus adalah penentu utama apakah sebuah produk digital akan sukses atau malah ditinggalkan.
 
-Menjadi seorang *Frontend Developer* memang berarti kita membuat UI yang akan dirasakan oleh banyak *user*. Tapi kalau didalamin lagi, kita sebenarnya sedang melatih beberapa hal krusial:
+Menjadi seorang _Frontend Developer_ memang berarti kita membuat UI yang akan dirasakan oleh banyak _user_. Tapi kalau didalamin lagi, kita sebenarnya sedang melatih beberapa hal krusial:
 
-* **Problem Solving & Empati:** Kamu belajar memahami apa yang memudahkan pengguna. Ini bikin kamu jadi *engineer* yang berpusat pada solusi, bukan sekadar penulis kode.
-* **Adaptabilitas Tinggi:** Ekosistem Frontend bergerak sangat cepat. Ini menuntut kita untuk terus belajar dan beradaptasi dengan teknologi baru.
-* **Sentuhan Manusia (*Craftsmanship*):** Walaupun AI sekarang makin canggih buat nulis kode atau *generate* struktur dasar, sentuhan *craftsmanship* untuk bikin animasi yang pas, aksesibilitas yang baik, dan *feel* aplikasi yang nyaman masih sangat membutuhkan insting manusia.
+- **Problem Solving & Empati:** Kamu belajar memahami apa yang memudahkan pengguna. Ini bikin kamu jadi _engineer_ yang berpusat pada solusi, bukan sekadar penulis kode.
+- **Adaptabilitas Tinggi:** Ekosistem Frontend bergerak sangat cepat. Ini menuntut kita untuk terus belajar dan beradaptasi dengan teknologi baru.
+- **Sentuhan Manusia (_Craftsmanship_):** Walaupun AI sekarang makin canggih buat nulis kode atau _generate_ struktur dasar, sentuhan _craftsmanship_ untuk bikin animasi yang pas, aksesibilitas yang baik, dan _feel_ aplikasi yang nyaman masih sangat membutuhkan insting manusia.
 
-Nah, itu adalah beberapa *skill set* dasar yang mungkin kalau misalnya nanti kamu nggak jadi *frontend developer* pun, bakal tetap kepakai di bidang lainnya.
+Nah, itu adalah beberapa _skill set_ dasar yang mungkin kalau misalnya nanti kamu nggak jadi _frontend developer_ pun, bakal tetap kepakai di bidang lainnya.
 
 ---
 
 ## 🚀 Peluang Karir & Jejak Alumni ITS
 
-Banyak yang nanya, *"Kalau fokus di Frontend, jenjang karirnya ke mana sih?"* Dilansir dari berbagai *tech blog* dan standar industri, karir seorang *Frontend Engineer* umumnya punya tahapan kayak gini:
+Banyak yang nanya, _"Kalau fokus di Frontend, jenjang karirnya ke mana sih?"_ Dilansir dari berbagai _tech blog_ dan standar industri, karir seorang _Frontend Engineer_ umumnya punya tahapan kayak gini:
 
-* **Junior Frontend Developer:** Fokus pada eksekusi tugas, menerjemahkan desain (Figma) menjadi komponen kode, dan *bug fixing*.
-* **Middle Frontend Developer:** Mulai memikirkan optimasi, memimpin fitur tertentu, dan membimbing *junior*.
-* **Senior Frontend Developer:** Merancang arsitektur aplikasi di sisi klien, memikirkan performa, keamanan, dan standar *engineering* tim.
-* **Frontend Software Architect:** Menentukan *tech stack* perusahaan, merancang *design system* lintas platform, dan menyelesaikan masalah teknikal di level bisnis.
+- **Junior Frontend Developer:** Fokus pada eksekusi tugas, menerjemahkan desain (Figma) menjadi komponen kode, dan _bug fixing_.
+- **Middle Frontend Developer:** Mulai memikirkan optimasi, memimpin fitur tertentu, dan membimbing _junior_.
+- **Senior Frontend Developer:** Merancang arsitektur aplikasi di sisi klien, memikirkan performa, keamanan, dan standar _engineering_ tim.
+- **Frontend Software Architect:** Menentukan _tech stack_ perusahaan, merancang _design system_ lintas platform, dan menyelesaikan masalah teknikal di level bisnis.
 
-Di lingkungan kampus kita sendiri, udah banyak *kating* dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
+Di lingkungan kampus kita sendiri, udah banyak _kating_ dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
 
-* Lathifa Itqonina Mardiyati (Teknik Informatika 2019)
-* Rizqi Tsani (Teknik Informatika 2019)
-* Benedictus Wicaksono (Teknik Informatika 2020)
-* Muhammad Dzikri Syairozi (Teknik Informatika 2020)
-* Muhammad Yunus (Teknik Informatika 2020)
-* Frederick Hidayat (Teknik Informatika 2021)
-* Gabriella Natasya Br. Ginting (Teknik Informatika 2021)
-* Robby Ulung Pambudi (Teknik Informatika 2021)
-* Ainun Nadhifah Syamsiyah (Teknik Informatika 2022)
-* Farrell Matthew Lim (Teknik Informatika 2022)
-* Reynaldi Neo Ramadhani (Teknik Informatika 2022)
-* Andrew Wallace (Teknik Informatika 2023)
-* Paiz (Teknik Informatika 2023)
-* Aldin (Teknik Informatika 2023)
-* Nicholas (Teknik Informatika 2023)
+- Lathifa Itqonina Mardiyati (Teknik Informatika 2019)
+- Rizqi Tsani (Teknik Informatika 2019)
+- Benedictus Wicaksono (Teknik Informatika 2020)
+- Muhammad Dzikri Syairozi (Teknik Informatika 2020)
+- Muhammad Yunus (Teknik Informatika 2020)
+- Frederick Hidayat (Teknik Informatika 2021)
+- Gabriella Natasya Br. Ginting (Teknik Informatika 2021)
+- Robby Ulung Pambudi (Teknik Informatika 2021)
+- Ainun Nadhifah Syamsiyah (Teknik Informatika 2022)
+- Farrell Matthew Lim (Teknik Informatika 2022)
+- Reynaldi Neo Ramadhani (Teknik Informatika 2022)
+- Andrew Wallace (Teknik Informatika 2023)
+- Paiz (Teknik Informatika 2023)
+- Aldin (Teknik Informatika 2023)
+- Nicholas (Teknik Informatika 2023)
 
 Jejak mereka ngebuktiin kalau fondasi yang kalian bangun di bangku kuliah, kalau ditekuni, bisa ngebawa kalian ke industri teknologi terdepan. Jadi, jangan ragu buat totalitas di sini!
 
@@ -77,13 +77,13 @@ Jejak mereka ngebuktiin kalau fondasi yang kalian bangun di bangku kuliah, kalau
 
 ## 🛠️ Apa aja sih yang harus dikuasai?
 
-Untuk menjadi seorang *frontend developer*, ada beberapa teknologi wajib yang harus dikuasai:
+Untuk menjadi seorang _frontend developer_, ada beberapa teknologi wajib yang harus dikuasai:
 
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **Framework** (React, Angular, Vue, dll.)
-* **Version Control** (Git)
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Framework** (React, Angular, Vue, dll.)
+- **Version Control** (Git)
 
 Yang tentunya, teman-teman sudah pelajari dasar-dasarnya di mata kuliah Pemrograman Web.
 
@@ -91,33 +91,33 @@ Yang tentunya, teman-teman sudah pelajari dasar-dasarnya di mata kuliah Pemrogra
 
 ## 📈 Apakah akan terus belajar Frontend? (Evolusi Skill)
 
-Pas awal-awal mulai mendalami Frontend, mungkin kalian bakal ngerasa *overwhelmed* (kewalahan) sama banyaknya hal yang harus dipelajari. Mulai dari CSS, Framework, State Management, sampai Build Tools.
+Pas awal-awal mulai mendalami Frontend, mungkin kalian bakal ngerasa _overwhelmed_ (kewalahan) sama banyaknya hal yang harus dipelajari. Mulai dari CSS, Framework, State Management, sampai Build Tools.
 
-Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil *developer*. Evolusinya kira-kira dari **I, T, N, lalu M**:
+Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil _developer_. Evolusinya kira-kira dari **I, T, N, lalu M**:
 
-* **1. I-Shaped (Sang Spesialis Murni)** Ini adalah *developer* yang punya pengetahuan sangat dalam di satu bidang spesifik (garis vertikal I), tapi kurang memiliki pemahaman di luar bidangnya. Misalnya, jago banget nge-React, tapi bingung kalau diajak diskusi soal cara kerja *database* atau dasar desain UI/UX.
+- **1. I-Shaped (Sang Spesialis Murni)** Ini adalah _developer_ yang punya pengetahuan sangat dalam di satu bidang spesifik (garis vertikal I), tapi kurang memiliki pemahaman di luar bidangnya. Misalnya, jago banget nge-React, tapi bingung kalau diajak diskusi soal cara kerja _database_ atau dasar desain UI/UX.
 
-* **2. T-Shaped (Target Awal Kita!)** Ini adalah standar emas untuk *developer* modern dan menjadi target utama kalian saat ini.
-  * **Garis Horizontal (Broad Knowledge):** Paham dasar-dasar dari berbagai bidang pendukung. Tahu sedikit tentang *Backend* (cara API bekerja), paham dasar *Database*, dan mengerti prinsip dasar UI/UX.
-  * **Garis Vertikal (Deep Expertise):** Punya satu spesialisasi yang dikuasai secara mendalam. Misalnya, keahlian utamamu adalah *Frontend Web Development* (menguasai ekosistem React, manipulasi DOM, manajemen *state* kompleks, dan optimasi performa web).
-  
-  > **Kenapa harus T-Shaped?** Karena di dunia kerja nyata, kamu nggak bekerja sendirian. Tahu sedikit tentang *Backend* bikin kamu lebih gampang diskusi sama tim *Backend*. Tahu sedikit tentang desain bikin kamu lebih sejalan dengan tim UI/UX.
+- **2. T-Shaped (Target Awal Kita!)** Ini adalah standar emas untuk _developer_ modern dan menjadi target utama kalian saat ini.
+  - **Garis Horizontal (Broad Knowledge):** Paham dasar-dasar dari berbagai bidang pendukung. Tahu sedikit tentang _Backend_ (cara API bekerja), paham dasar _Database_, dan mengerti prinsip dasar UI/UX.
+  - **Garis Vertikal (Deep Expertise):** Punya satu spesialisasi yang dikuasai secara mendalam. Misalnya, keahlian utamamu adalah _Frontend Web Development_ (menguasai ekosistem React, manipulasi DOM, manajemen _state_ kompleks, dan optimasi performa web).
 
-* **3. N-Shaped** Kalau sudah mantap di T-Shaped, kamu bisa berevolusi nambah satu kaki keahlian vertikal lagi. Contohnya: Kamu adalah seorang *expert* di *Frontend Development* (kaki pertama) **DAN** juga *expert* di ranah UI/UX Design (kaki kedua). Kamu jadi jembatan maut antara desainer dan *programmer*.
+  > **Kenapa harus T-Shaped?** Karena di dunia kerja nyata, kamu nggak bekerja sendirian. Tahu sedikit tentang _Backend_ bikin kamu lebih gampang diskusi sama tim _Backend_. Tahu sedikit tentang desain bikin kamu lebih sejalan dengan tim UI/UX.
 
-* **4. M-Shaped / Comb-Shaped (Sang Multi-Spesialis)** Punya banyak "tiang" spesialisasi yang mendalam. Biasanya ini adalah level *Senior Fullstack Developer* atau *Tech Lead*. Jago bikin *frontend* yang interaktif, jago ngerancang arsitektur *backend* yang *scalable*, dan jago *deploy* aplikasi (DevOps).
+- **3. N-Shaped** Kalau sudah mantap di T-Shaped, kamu bisa berevolusi nambah satu kaki keahlian vertikal lagi. Contohnya: Kamu adalah seorang _expert_ di _Frontend Development_ (kaki pertama) **DAN** juga _expert_ di ranah UI/UX Design (kaki kedua). Kamu jadi jembatan maut antara desainer dan _programmer_.
+
+- **4. M-Shaped / Comb-Shaped (Sang Multi-Spesialis)** Punya banyak "tiang" spesialisasi yang mendalam. Biasanya ini adalah level _Senior Fullstack Developer_ atau _Tech Lead_. Jago bikin _frontend_ yang interaktif, jago ngerancang arsitektur _backend_ yang _scalable_, dan jago _deploy_ aplikasi (DevOps).
 
 Pada akhirnya, nggak ada yang salah mau jadi kayak gimana. Ini kan pada dasarnya sama aja kayak milih antara mau jadi spesialis atau generalis, dan itu murni pilihan. Tapi kalau untuk aku pribadi, di awal-awal mending fokus jadi **T-Shaped** dulu aja. Tau sedikit tentang bidang yang lain, tapi pastiin ada 1 bidang yang benar-benar didalemin.
 
 ## 🤖 Apakah Frontend Masih Relevan? Akankah Digantikan oleh AI?
 
-Di era di mana alat (*tools*) AI seperti ChatGPT, GitHub Copilot, hingga v0 dari Vercel mampu membuat *layout* komponen web hanya dari sebaris *prompt* dalam hitungan detik, sangat wajar jika muncul pertanyaan: *"Apakah peran Frontend Developer akan segera mati?"* Jawabannya adalah **tidak**. Peran *Frontend* tidak akan punah, tetapi cara kita bekerja dan menulis kode yang akan mengalami perubahan drastis. Pekerjaan repetitif seperti sekadar mengetik ulang desain statis menjadi struktur HTML dan CSS murni memang perlahan akan diambil alih oleh mesin. Namun, ini bukanlah sebuah ancaman, melainkan evolusi yang justru membebaskan kita dari tugas-tugas mekanis yang membosankan.
+Di era di mana alat (_tools_) AI seperti ChatGPT, GitHub Copilot, hingga v0 dari Vercel mampu membuat _layout_ komponen web hanya dari sebaris _prompt_ dalam hitungan detik, sangat wajar jika muncul pertanyaan: _"Apakah peran Frontend Developer akan segera mati?"_ Jawabannya adalah **tidak**. Peran _Frontend_ tidak akan punah, tetapi cara kita bekerja dan menulis kode yang akan mengalami perubahan drastis. Pekerjaan repetitif seperti sekadar mengetik ulang desain statis menjadi struktur HTML dan CSS murni memang perlahan akan diambil alih oleh mesin. Namun, ini bukanlah sebuah ancaman, melainkan evolusi yang justru membebaskan kita dari tugas-tugas mekanis yang membosankan.
 
-Kenyataannya, di masa depan kita memang akan sangat banyak menggunakan AI dalam pekerjaan sehari-hari. AI akan bertindak sebagai asisten atau *copilot* yang luar biasa cepat untuk membuat kerangka dasar (*boilerplate*), menyelesaikan potongan kode, atau membantu mencari letak *error*. Alih-alih mengetik setiap baris kode dari nol, peran kita akan bergeser dari sekadar "kuli ketik" menjadi seorang "Arsitek" dan "Editor". Kita akan lebih banyak bertugas memberikan instruksi yang tepat kepada AI, meninjau hasil kodenya, dan merangkai potongan-potongan komponen tersebut menjadi satu sistem aplikasi yang utuh.
+Kenyataannya, di masa depan kita memang akan sangat banyak menggunakan AI dalam pekerjaan sehari-hari. AI akan bertindak sebagai asisten atau _copilot_ yang luar biasa cepat untuk membuat kerangka dasar (_boilerplate_), menyelesaikan potongan kode, atau membantu mencari letak _error_. Alih-alih mengetik setiap baris kode dari nol, peran kita akan bergeser dari sekadar "kuli ketik" menjadi seorang "Arsitek" dan "Editor". Kita akan lebih banyak bertugas memberikan instruksi yang tepat kepada AI, meninjau hasil kodenya, dan merangkai potongan-potongan komponen tersebut menjadi satu sistem aplikasi yang utuh.
 
-Di titik pergeseran inilah **pemahaman fundamental justru menjadi jauh lebih penting dan tidak bisa ditawar**. Bagaimana kalian bisa memvalidasi atau mengoreksi kode hasil *generate* AI jika kalian sendiri tidak memahami cara kerja DOM, konsep *state management* di React, atau hierarki CSS? Saat AI menghasilkan kode yang menyebabkan performa aplikasi melambat atau memunculkan *bug* logika yang kompleks di tahap penyelesaian akhir (*The Last 20%*), AI sering kali akan kebingungan memperbaikinya sendiri. Hanya *engineer* dengan fondasi JavaScript murni dan pemahaman arsitektur perangkat lunak yang kuatlah yang mampu masuk ke dalam kode, melakukan *debugging*, dan menyelesaikan masalah tersebut.
+Di titik pergeseran inilah **pemahaman fundamental justru menjadi jauh lebih penting dan tidak bisa ditawar**. Bagaimana kalian bisa memvalidasi atau mengoreksi kode hasil _generate_ AI jika kalian sendiri tidak memahami cara kerja DOM, konsep _state management_ di React, atau hierarki CSS? Saat AI menghasilkan kode yang menyebabkan performa aplikasi melambat atau memunculkan _bug_ logika yang kompleks di tahap penyelesaian akhir (_The Last 20%_), AI sering kali akan kebingungan memperbaikinya sendiri. Hanya _engineer_ dengan fondasi JavaScript murni dan pemahaman arsitektur perangkat lunak yang kuatlah yang mampu masuk ke dalam kode, melakukan _debugging_, dan menyelesaikan masalah tersebut.
 
-Lebih dari sekadar menulis baris kode, *Frontend Development* pada intinya adalah tentang memanusiakan antarmuka aplikasi. AI tidak memiliki empati untuk merasakan apakah sebuah transisi halaman terasa memusingkan, atau apakah tombol yang ada di layar terlalu sulit ditekan oleh jari pengguna. Aspek *User Experience* (UX), perancangan logika bisnis (*business logic*) yang bersinggungan langsung dengan kebutuhan klien, hingga memastikan aplikasi dapat diakses dengan baik (*accessibility*) tetap membutuhkan pemikiran analitis dan insting manusia. AI adalah alat bantu yang sangat canggih, namun kitalah yang memegang kendali penuh atas solusi dan pengalaman yang diberikan kepada pengguna.
+Lebih dari sekadar menulis baris kode, _Frontend Development_ pada intinya adalah tentang memanusiakan antarmuka aplikasi. AI tidak memiliki empati untuk merasakan apakah sebuah transisi halaman terasa memusingkan, atau apakah tombol yang ada di layar terlalu sulit ditekan oleh jari pengguna. Aspek _User Experience_ (UX), perancangan logika bisnis (_business logic_) yang bersinggungan langsung dengan kebutuhan klien, hingga memastikan aplikasi dapat diakses dengan baik (_accessibility_) tetap membutuhkan pemikiran analitis dan insting manusia. AI adalah alat bantu yang sangat canggih, namun kitalah yang memegang kendali penuh atas solusi dan pengalaman yang diberikan kepada pengguna.
 
 ## Paradigma Frontend Developer
 
@@ -135,33 +135,33 @@ Karakteristik utama dari pemrograman prosedural meliputi:
 
 1. Modularity
 
-    Kode program dipecah menjadi fungsi atau prosedur yang lebih kecil dan masing masing bertanggung jawab untuk tugas tertentu
+   Kode program dipecah menjadi fungsi atau prosedur yang lebih kecil dan masing masing bertanggung jawab untuk tugas tertentu
 
 2. Function Call
 
-    Prosedur atau fungsi dapat dipanggil secara berurutan. Dan sering kali fungsi mengambil sebuah parameter input dan dikembalikan sebagai hasil output
+   Prosedur atau fungsi dapat dipanggil secara berurutan. Dan sering kali fungsi mengambil sebuah parameter input dan dikembalikan sebagai hasil output
 
 3. Global Variable
 
-    Program prosedural sering menggunakan variabel global untuk menyimpan data yang dapat diakses oleh beberapa fungsi. Namun, penggunaan variabel global yang berlebihan dapat menyebabkan masalah seperti efek samping yang tidak diinginkan dan kesulitan dalam memahami aliran data.
+   Program prosedural sering menggunakan variabel global untuk menyimpan data yang dapat diakses oleh beberapa fungsi. Namun, penggunaan variabel global yang berlebihan dapat menyebabkan masalah seperti efek samping yang tidak diinginkan dan kesulitan dalam memahami aliran data.
 
 4. Sequential Execution
 
-    program dieksekusi dalam urutan linier. Pernyataan dieksekusi satu demi satu, dan struktur kontrol seperti loop dan kondisional menentukan aliran eksekusi.
+   program dieksekusi dalam urutan linier. Pernyataan dieksekusi satu demi satu, dan struktur kontrol seperti loop dan kondisional menentukan aliran eksekusi.
 
 5. Limited Reusability
 
-    Penggunaan Ulang Terbatas: Meskipun fungsi meningkatkan penggunaan ulang dibandingkan dengan kode monolitik, fungsi biasanya terbatas untuk digunakan dalam program yang sama. Fungsi tidak dienkapsulasi dan dapat digunakan kembali seperti kelas dan objek dalam pemrograman berorientasi objek.
+   Penggunaan Ulang Terbatas: Meskipun fungsi meningkatkan penggunaan ulang dibandingkan dengan kode monolitik, fungsi biasanya terbatas untuk digunakan dalam program yang sama. Fungsi tidak dienkapsulasi dan dapat digunakan kembali seperti kelas dan objek dalam pemrograman berorientasi objek.
 
 #### Contoh Kode Program Procedural
 
 ```javascript
 function calculateArea(length, width) {
-    return length * width;
+  return length * width;
 }
 
 function calculateVolume(length, width, height) {
-    return length * width * height;
+  return length * width * height;
 }
 
 let area = calculateArea(10, 20);
@@ -179,38 +179,32 @@ Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berfokus pad
 #### Karakteristik Utama OOP
 
 1. **Object**
-
-    - Objek adalah entitas yang memiliki atribut (data) dan metode (fungsi) yang dapat dijalankan.
-    - Contoh: Jika kita berbicara tentang mobil, objeknya bisa menjadi "Mobil BMW X3" dengan atribut seperti warna, kecepatan, dan metode seperti "hidupkan mesin".
+   - Objek adalah entitas yang memiliki atribut (data) dan metode (fungsi) yang dapat dijalankan.
+   - Contoh: Jika kita berbicara tentang mobil, objeknya bisa menjadi "Mobil BMW X3" dengan atribut seperti warna, kecepatan, dan metode seperti "hidupkan mesin".
 
 2. **Class**
-
-    - Kelas adalah cetak biru atau blueprint untuk membuat objek.
-    - Contoh: Jika "Mobil BMW X3" adalah objek, maka "Mobil" adalah kelas yang mendefinisikan bagaimana objek mobil harus dibuat dan memiliki atribut/metode apa.
+   - Kelas adalah cetak biru atau blueprint untuk membuat objek.
+   - Contoh: Jika "Mobil BMW X3" adalah objek, maka "Mobil" adalah kelas yang mendefinisikan bagaimana objek mobil harus dibuat dan memiliki atribut/metode apa.
 
 3. **Atribut**
-
-    - Atribut adalah karakteristik atau data yang dimiliki oleh objek.
-    - Contoh: Dalam kelas "Mobil", atributnya bisa menjadi "warna", "kecepatan", dan lainnya.
+   - Atribut adalah karakteristik atau data yang dimiliki oleh objek.
+   - Contoh: Dalam kelas "Mobil", atributnya bisa menjadi "warna", "kecepatan", dan lainnya.
 
 4. **Metode**
-
-    - Metode adalah fungsi atau tindakan yang dapat dilakukan oleh objek.
-    - Contoh: Dalam kelas "Mobil", metodenya bisa menjadi "hidupkanMesin()", "matikanMesin()", atau "percepat()".
+   - Metode adalah fungsi atau tindakan yang dapat dilakukan oleh objek.
+   - Contoh: Dalam kelas "Mobil", metodenya bisa menjadi "hidupkanMesin()", "matikanMesin()", atau "percepat()".
 
 5. **Inheritance (Pewarisan)**
-
-    - Pewarisan memungkinkan kelas baru ("subclass" atau "child class") untuk mewarisi atribut dan metode dari kelas yang sudah ada ("superclass" atau "parent class").
-    - Contoh: Jika ada kelas "Truk" dan kelas "Mobil" sebagai superclass, maka "Truk" dapat mewarisi atribut dan metode dari "Mobil".
+   - Pewarisan memungkinkan kelas baru ("subclass" atau "child class") untuk mewarisi atribut dan metode dari kelas yang sudah ada ("superclass" atau "parent class").
+   - Contoh: Jika ada kelas "Truk" dan kelas "Mobil" sebagai superclass, maka "Truk" dapat mewarisi atribut dan metode dari "Mobil".
 
 6. **Polimorfisme**
-
-    - Polimorfisme memungkinkan objek dari kelas yang berbeda untuk merespons metode dengan cara yang sama.
-    - Contoh: Metode "bersuara()" dapat digunakan baik oleh objek "Anjing" maupun "Kucing", dan keduanya mengeluarkan suara yang berbeda.
+   - Polimorfisme memungkinkan objek dari kelas yang berbeda untuk merespons metode dengan cara yang sama.
+   - Contoh: Metode "bersuara()" dapat digunakan baik oleh objek "Anjing" maupun "Kucing", dan keduanya mengeluarkan suara yang berbeda.
 
 7. **Enkapsulasi**
-    - Enkapsulasi melibatkan penyembunyian detail implementasi dari dunia luar dan membatasi akses langsung ke beberapa bagian dari objek.
-    - Contoh: Dengan menggunakan enkapsulasi, kita dapat membatasi akses langsung ke atribut seperti "saldoBank" dalam objek "RekeningBank".
+   - Enkapsulasi melibatkan penyembunyian detail implementasi dari dunia luar dan membatasi akses langsung ke beberapa bagian dari objek.
+   - Contoh: Dengan menggunakan enkapsulasi, kita dapat membatasi akses langsung ke atribut seperti "saldoBank" dalam objek "RekeningBank".
 
 Tentunya hal-hal diatas sudah tidak asing lagi bagi kalian karena sudah pernah dipelajari di kelas `Pemrograman Berbasis Kerangka Kerja`.
 
@@ -223,41 +217,38 @@ OOP sendiri masih dipakai di library yang sangat terkenal bagi kita yaitu “Rea
 #### Karakteristik Utama FP
 
 1. **Fungsi sebagai Warga Kelas Satu**:
-
-    - Fungsi bukan hanya subrutin, tetapi entitas yang dapat dimanipulasi seperti data.
-    - Fungsi dapat diteruskan sebagai argumen, dikembalikan sebagai nilai, dan diikat ke variabel.
+   - Fungsi bukan hanya subrutin, tetapi entitas yang dapat dimanipulasi seperti data.
+   - Fungsi dapat diteruskan sebagai argumen, dikembalikan sebagai nilai, dan diikat ke variabel.
 
 2. **Imutabilitas**
-
-    - Data dalam program fungsional tidak dapat diubah setelah diinisialisasi.
-    - Hal ini meningkatkan prediktabilitas dan memudahkan debugging.
+   - Data dalam program fungsional tidak dapat diubah setelah diinisialisasi.
+   - Hal ini meningkatkan prediktabilitas dan memudahkan debugging.
 
 3. **Rekursi**
-
-    - Fungsi dapat memanggil diri sendiri untuk memecah masalah kompleks menjadi sub-masalah yang lebih kecil.
-    - Rekursi memungkinkan solusi elegan untuk masalah seperti perhitungan faktorial dan traversal struktur data.
+   - Fungsi dapat memanggil diri sendiri untuk memecah masalah kompleks menjadi sub-masalah yang lebih kecil.
+   - Rekursi memungkinkan solusi elegan untuk masalah seperti perhitungan faktorial dan traversal struktur data.
 
 4. **Komposisi Fungsi**
-    - Fungsi-fungsi kecil dapat digabungkan untuk membentuk fungsi yang lebih kompleks.
-    - Komposisi fungsi meningkatkan modularitas dan keterbacaan kode.
+   - Fungsi-fungsi kecil dapat digabungkan untuk membentuk fungsi yang lebih kompleks.
+   - Komposisi fungsi meningkatkan modularitas dan keterbacaan kode.
 
 #### Contoh Kode Program Functional
 
 ```typescript
 // Fungsi murni untuk menghitung total penjualan
 const totalPenjualan = (
-    produkList: { harga: number; jumlah: number }[]
+  produkList: { harga: number; jumlah: number }[],
 ): number => {
-    return produkList.reduce(
-        (total, produk) => total + produk.harga * produk.jumlah,
-        0
-    );
+  return produkList.reduce(
+    (total, produk) => total + produk.harga * produk.jumlah,
+    0,
+  );
 };
 
 // Contoh penggunaan
 const produkList = [
-    { harga: 10, jumlah: 2 },
-    { harga: 5, jumlah: 3 },
+  { harga: 10, jumlah: 2 },
+  { harga: 5, jumlah: 3 },
 ];
 
 const total = totalPenjualan(produkList);
@@ -300,14 +291,14 @@ Bayangkan kita sedang memasak makanan. Setiap langkah dalam resep harus diselesa
 
 Dalam Frontend Developer Fungsi sinkron ideal untuk tugas-tugas sederhana yang tidak memerlukan waktu lama untuk dijalankan, seperti:
 
--   Manipulasi data lokal
--   Perhitungan sederhana
--   Pengambilan keputusan berdasarkan data yang sudah tersedia
+- Manipulasi data lokal
+- Perhitungan sederhana
+- Pengambilan keputusan berdasarkan data yang sudah tersedia
 
 ```typescript
 function addNumbers(a, b) {
-    // Penjumlahan dua angka
-    return a + b;
+  // Penjumlahan dua angka
+  return a + b;
 }
 const result = addNumbers(5, 3);
 console.log(result); // Output: 8
@@ -338,16 +329,16 @@ Setelah kita mengerti dan memahami konsep dari Asinkron function selanjutnya ada
 Budi ingin membuat sebuah program yang menampilkan daftar nama 5 orang secara berurutan dengan delay 1 detik di antara setiap nama, dan kata hallo pada detik ke 2.
 
 ```typescript
-const names = ["Andi", "Budi", "Cici", "Doni", "Eko"];
+const names = ['Andi', 'Budi', 'Cici', 'Doni', 'Eko'];
 function displayNames() {
-    for (let i = 0; i < names.length; i++) {
-        setTimeout(() => {
-            console.log(names[i]);
-        }, i * 1000);
-    }
+  for (let i = 0; i < names.length; i++) {
     setTimeout(() => {
-        console.log("hallo");
-    }, 2000);
+      console.log(names[i]);
+    }, i * 1000);
+  }
+  setTimeout(() => {
+    console.log('hallo');
+  }, 2000);
 }
 
 displayNames();
@@ -361,23 +352,23 @@ Fungsi callback adalah fungsi yang dipassed sebagai argumen ke fungsi lain dan d
 
 ```typescript
 function fetchData(url, callback) {
-    // Lakukan fetch data dari URL
-    // ...
+  // Lakukan fetch data dari URL
+  // ...
 
-    // Ketika data selesai diambil, panggil callback dengan data tersebut
-    callback(data);
+  // Ketika data selesai diambil, panggil callback dengan data tersebut
+  callback(data);
 }
 
-fetchData("https://api.example.com/data", (data) => {
-    console.log(data); // Data tersedia setelah fetching selesai
+fetchData('https://api.example.com/data', (data) => {
+  console.log(data); // Data tersedia setelah fetching selesai
 });
 ```
 
 **Kapan menggunakan fungsi callback?**
 
--   `Operasi asinkron`: Ketika Anda perlu menunggu hasil dari operasi asinkron (misalnya, fetching data dari API), Anda dapat menggunakan callback untuk menangani hasil tersebut setelah tersedia.
+- `Operasi asinkron`: Ketika Anda perlu menunggu hasil dari operasi asinkron (misalnya, fetching data dari API), Anda dapat menggunakan callback untuk menangani hasil tersebut setelah tersedia.
 
--   `Event handling`: Callback sering digunakan dalam event handling untuk menjalankan kode tertentu ketika event terjadi (misalnya, klik tombol).
+- `Event handling`: Callback sering digunakan dalam event handling untuk menjalankan kode tertentu ketika event terjadi (misalnya, klik tombol).
 
 #### Promise Function
 
@@ -391,24 +382,24 @@ Seperti itulah analogi dari penjelasan promise function dalam kegiatan kita seha
 
 ```typescript
 function fetchData(url) {
-    return new Promise((resolve, reject) => {
-        // Lakukan fetch data dari URL
+  return new Promise((resolve, reject) => {
+    // Lakukan fetch data dari URL
 
-        if (sukses) {
-            resolve(data); // resolve dengan data jika sukses
-        } else {
-            reject(error); // reject dengan error jika gagal
-        }
-    });
+    if (sukses) {
+      resolve(data); // resolve dengan data jika sukses
+    } else {
+      reject(error); // reject dengan error jika gagal
+    }
+  });
 }
 
-fetchData("https://api.example.com/data")
-    .then((data) => {
-        console.log("Data diterima:", data);
-    })
-    .catch((error) => {
-        console.error("Error:", error);
-    });
+fetchData('https://api.example.com/data')
+  .then((data) => {
+    console.log('Data diterima:', data);
+  })
+  .catch((error) => {
+    console.error('Error:', error);
+  });
 ```
 
 Lalu apa bedanya dengan `.then()` dan `.catch()` kan bisa aja tuh ditaruh didalam situ tanpa harus menggunakan Promise? kalau kita lihat penjelasan diatas kita bisa tarik sebuah perbedaan bahwa promise itu hanya sebatas Janji sedangkan then dan `catch` adalah apa yang akan dilakukan ketika mendapat sebuah kegagalan atau kesuksesan dalam pemanggilan.
@@ -425,9 +416,9 @@ Generator function sangat berguna dalam menghasilkan nilai secara bertahap, sepe
 
 ```typescript
 function* generateNumbers() {
-    yield 1;
-    yield 2;
-    yield 3;
+  yield 1;
+  yield 2;
+  yield 3;
 }
 
 const numbers = generateNumbers();
@@ -455,10 +446,10 @@ Pasti teman-teman sudah tidak asing dengan materi pembahasan kali ini yaitu DOM.
 
 Dengan memanipulasi DOM, Anda dapat secara dinamis mengubah tampilan dan perilaku halaman web. Ini termasuk tugas-tugas seperti:
 
--   **Menambahkan atau menghapus elemen**: Anda dapat membuat elemen HTML baru dan menambahkannya ke DOM, atau menghapus elemen yang ada sepenuhnya.
--   **Mengubah konten**: Anda dapat mengubah konten teks elemen, memperbarui atribut, dan menyesuaikan gaya.
--   **Menanggapi peristiwa**: Anda dapat melampirkan pendengar peristiwa ke elemen, sehingga kode Anda dapat bereaksi terhadap interaksi pengguna seperti klik, penekanan tombol, atau pengiriman formulir.
--   **Membangun antarmuka interaktif**: Dengan memanipulasi DOM, Anda dapat membuat aplikasi web yang dinamis dan interaktif.
+- **Menambahkan atau menghapus elemen**: Anda dapat membuat elemen HTML baru dan menambahkannya ke DOM, atau menghapus elemen yang ada sepenuhnya.
+- **Mengubah konten**: Anda dapat mengubah konten teks elemen, memperbarui atribut, dan menyesuaikan gaya.
+- **Menanggapi peristiwa**: Anda dapat melampirkan pendengar peristiwa ke elemen, sehingga kode Anda dapat bereaksi terhadap interaksi pengguna seperti klik, penekanan tombol, atau pengiriman formulir.
+- **Membangun antarmuka interaktif**: Dengan memanipulasi DOM, Anda dapat membuat aplikasi web yang dinamis dan interaktif.
 
 ### Bagaiamanakah cara kerja DOM?
 
@@ -471,18 +462,17 @@ Contoh sederhana dari DOM adalah sebagai berikut:
 ```html
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Contoh DOM</title>
-    </head>
-    <body>
-        <h1>Hello, World!</h1>
-        <p>Selamat datang di contoh DOM.</p>
-    </body>
+  <head>
+    <title>Contoh DOM</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p>Selamat datang di contoh DOM.</p>
+  </body>
 </html>
 ```
 
 Dalam contoh ini, elemen `<html>` adalah node root dari pohon DOM. Setiap elemen lain, seperti `<head>`, `<title>`, `<body>`, `<h1>`, dan `<p>`, adalah node yang ditambahkan ke pohon.
-
 
 ### Cara Mengakses Elemen DOM
 
@@ -497,6 +487,7 @@ Anda dapat mengakses elemen DOM menggunakan JavaScript dengan beberapa cara:
 Dokumentasi lengkap tentang cara mengakses elemen DOM dapat ditemukan di [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction).
 
 ### Kelemahan Manipulasi DOM Manual
+
 Menguasai DOM murni memang penting untuk fondasi, tapi untuk aplikasi skala besar seperti media sosial, melakukan manipulasi DOM secara manual punya banyak kelemahan:
 
 Sangat Lambat (Performance Issue): Mengubah DOM secara manual memaksa browser untuk menghitung ulang tata letak (reflow) dan melukis ulang (repaint) seluruh elemen yang terdampak. Ini memakan banyak resource.
@@ -513,48 +504,49 @@ Karena alasan-alasan inilah, industri beralih ke Framework/Library modern yang m
 
 ### Fetch API (Bawaan Browser)
 
-**Fetch API** adalah fitur bawaan (*native*) dari JavaScript modern. Kalian tidak perlu menginstal *library* apa pun untuk menggunakannya. Ia bekerja menggunakan *Promise*, sehingga sangat cocok digabungkan dengan sintaks `.then().catch()` atau `async/await`.
+**Fetch API** adalah fitur bawaan (_native_) dari JavaScript modern. Kalian tidak perlu menginstal _library_ apa pun untuk menggunakannya. Ia bekerja menggunakan _Promise_, sehingga sangat cocok digabungkan dengan sintaks `.then().catch()` atau `async/await`.
 
 **Contoh penggunaan Fetch API:**
 
 ```javascript
-fetch("[https://api.example.com/data](https://api.example.com/data)")
+fetch('https://api.example.com/data')
   .then((response) => {
     // Fetch tidak otomatis mengubah respons menjadi JSON, kita harus melakukannya manual
     if (!response.ok) {
-      throw new Error("Gagal mengambil data dari server");
+      throw new Error('Gagal mengambil data dari server');
     }
-    return response.json(); 
+    return response.json();
   })
   .then((data) => {
-    console.log("Data berhasil diambil:", data);
+    console.log('Data berhasil diambil:', data);
   })
   .catch((error) => {
-    console.error("Ada masalah:", error);
+    console.error('Ada masalah:', error);
   });
 ```
-**Kekurangan Fetch API:**
-* **Proses Berulang:** Kita harus melakukan dua proses terpisah (menangkap respons, lalu mengubahnya menjadi format JSON melalui `.json()`).
-* **Error Handling Terbatas:** Fetch tidak otomatis masuk ke blok `.catch()` kalau ada *error* HTTP dari server (misalnya: *error 404 Not Found* atau *500 Internal Server Error*). Ia hanya akan memicu *error* kalau koneksi internet pengguna benar-benar terputus.
 
+**Kekurangan Fetch API:**
+
+- **Proses Berulang:** Kita harus melakukan dua proses terpisah (menangkap respons, lalu mengubahnya menjadi format JSON melalui `.json()`).
+- **Error Handling Terbatas:** Fetch tidak otomatis masuk ke blok `.catch()` kalau ada _error_ HTTP dari server (misalnya: _error 404 Not Found_ atau _500 Internal Server Error_). Ia hanya akan memicu _error_ kalau koneksi internet pengguna benar-benar terputus.
 
 ### Axios
 
-Karena beberapa "kerepotan" pada Fetch API, komunitas *frontend* sering kali memilih menggunakan *library* tambahan bernama **Axios**. Axios adalah klien HTTP berbasis *Promise* yang sangat populer dan menjadi standar industri di ekosistem React maupun Vue.
+Karena beberapa "kerepotan" pada Fetch API, komunitas _frontend_ sering kali memilih menggunakan _library_ tambahan bernama **Axios**. Axios adalah klien HTTP berbasis _Promise_ yang sangat populer dan menjadi standar industri di ekosistem React maupun Vue.
 
 **Kelebihan Axios dibandingkan Fetch:**
-* **Otomatis Parsing JSON:** Data dari server otomatis diubah menjadi objek JavaScript, tidak perlu lagi memanggil `.json()`.
-* **Error Handling Lebih Cerdas:** Semua status kode HTTP di luar `2xx` (sukses) akan langsung dilempar ke dalam blok `.catch()`.
-* **Fitur Lanjutan:** Mendukung pembatalan *request* (*cancel request*), *interceptors*, dan perlindungan keamanan ekstra.
+
+- **Otomatis Parsing JSON:** Data dari server otomatis diubah menjadi objek JavaScript, tidak perlu lagi memanggil `.json()`.
+- **Error Handling Lebih Cerdas:** Semua status kode HTTP di luar `2xx` (sukses) akan langsung dilempar ke dalam blok `.catch()`.
+- **Fitur Lanjutan:** Mendukung pembatalan _request_ (_cancel request_), _interceptors_, dan perlindungan keamanan ekstra.
 
 **Contoh penggunaan Axios:**
 
 ```
-javascript
 // Harus diinstal terlebih dahulu via terminal: npm install axios
 import axios from 'axios';
 
-axios.get("[https://api.example.com/data](https://api.example.com/data)")
+axios.get("https://api.example.com/data")
   .then((response) => {
     // Data otomatis berupa JSON dan berada di dalam properti .data
     console.log("Data berhasil diambil:", response.data);
@@ -563,6 +555,7 @@ axios.get("[https://api.example.com/data](https://api.example.com/data)")
     console.error("Terjadi kesalahan:", error.message);
   });
 ```
+
 ---
 
 ## Framework Frontend
@@ -604,27 +597,28 @@ Ada banyak package manager yang tersedia, namun yang paling populer adalah npm (
 PNPM adalah package manager yang dikembangkan oleh Zoltan Kochan. Ia menawarkan kecepatan yang lebih tinggi daripada npm dan Yarn, serta penggunaan ruang disk yang lebih efisien.
 
 ### Mengenal Vite
+
 Sebelum kalian ngoding React, kalian butuh Build Tool untuk merakit kode-kode komponen kalian agar bisa dibaca browser. Di sinilah Vite (dibaca: "vit", bahasa Prancis untuk "cepat") masuk.
 
 Vite adalah frontend tooling generasi baru yang super cepat. Kalau dulu orang bikin proyek React pakai Create React App (CRA) yang berat dan lambat saat loading, sekarang hampir seluruh industri berpindah ke Vite karena waktu server berjalannya (cold start) yang instan berkat pemanfaatan modul ES asli dari browser.
 
-
 ### Styling Modern: Mengenal Tailwind CSS
 
-Setelah memahami struktur (HTML) dan logika (JavaScript), tahap berikutnya adalah aspek visual atau *styling*. Dalam industri pengembangan perangkat lunak saat ini, menulis CSS secara manual di file terpisah sering kali dianggap kurang efisien untuk proyek berskala besar. Hal inilah yang melatarbelakangi lahirnya **Tailwind CSS**.
+Setelah memahami struktur (HTML) dan logika (JavaScript), tahap berikutnya adalah aspek visual atau _styling_. Dalam industri pengembangan perangkat lunak saat ini, menulis CSS secara manual di file terpisah sering kali dianggap kurang efisien untuk proyek berskala besar. Hal inilah yang melatarbelakangi lahirnya **Tailwind CSS**.
 
-Tailwind adalah sebuah *Utility-first CSS framework*. Berbeda dengan framework seperti Bootstrap yang menyediakan komponen jadi (seperti `.btn`), Tailwind menyediakan kelas-kelas utilitas kecil yang spesifik sehingga pengembang dapat membangun komponen kustom langsung di dalam file HTML atau JSX.
+Tailwind adalah sebuah _Utility-first CSS framework_. Berbeda dengan framework seperti Bootstrap yang menyediakan komponen jadi (seperti `.btn`), Tailwind menyediakan kelas-kelas utilitas kecil yang spesifik sehingga pengembang dapat membangun komponen kustom langsung di dalam file HTML atau JSX.
 
-* **Pendekatan Konvensional (Vanilla CSS):** Pengembang harus membuat file `.css` terpisah, menentukan nama kelas, lalu menulis properti satu per satu.
-* **Pendekatan Tailwind CSS:** Pengembang langsung menyematkan kelas utilitas pada elemen yang diinginkan.
+- **Pendekatan Konvensional (Vanilla CSS):** Pengembang harus membuat file `.css` terpisah, menentukan nama kelas, lalu menulis properti satu per satu.
+- **Pendekatan Tailwind CSS:** Pengembang langsung menyematkan kelas utilitas pada elemen yang diinginkan.
 
 **Contoh Implementasi Tombol dengan Tailwind CSS:**
 
 ```jsx
-<button className="bg-sky-500 hover:bg-sky-700 text-white font-bold py-2 px-4 rounded">
+<button className='bg-sky-500 hover:bg-sky-700 text-white font-bold py-2 px-4 rounded'>
   Klik Saya
 </button>
 ```
+
 Keunggulan Tailwind CSS:
 
 Efisiensi Waktu: Proses desain UI dilakukan bersamaan dengan penulisan struktur kode tanpa perlu berpindah antar file.
@@ -633,29 +627,28 @@ Sistem yang Konsisten: Ukuran padding, margin, dan palet warna sudah terstandari
 
 Optimalisasi Ukuran File: Tailwind hanya akan menyertakan kelas-kelas yang digunakan pada tahap produksi, sehingga ukuran file akhir menjadi sangat kecil.
 
-
-
-
 ### Pengenalan Dasar React
+
 React bukan sekadar sebuah pustaka (library), melainkan sebuah cara pandang baru dalam membangun aplikasi. React meninggalkan cara lama dalam manipulasi DOM secara manual dan beralih pada pendekatan yang berfokus pada Data dan Komponen.
 
 Terdapat empat konsep fundamental yang menjadi pilar utama dalam React:
 
 1. Komponen (Components)
-Aplikasi web dipecah menjadi bagian-bagian kecil yang dapat digunakan kembali (reusable), seperti Sidebar, TweetCard, atau CommentBox. Konsep ini mirip dengan menyusun balok-balok bangunan untuk membentuk satu kesatuan aplikasi.
+   Aplikasi web dipecah menjadi bagian-bagian kecil yang dapat digunakan kembali (reusable), seperti Sidebar, TweetCard, atau CommentBox. Konsep ini mirip dengan menyusun balok-balok bangunan untuk membentuk satu kesatuan aplikasi.
 
 2. JSX (JavaScript XML)
-JSX adalah ekstensi sintaks JavaScript yang memungkinkan pengembang menulis struktur kode yang menyerupai HTML di dalam file JavaScript. Ini memberikan fleksibilitas penuh dalam menggabungkan logika pemrograman dengan tampilan antarmuka.
+   JSX adalah ekstensi sintaks JavaScript yang memungkinkan pengembang menulis struktur kode yang menyerupai HTML di dalam file JavaScript. Ini memberikan fleksibilitas penuh dalam menggabungkan logika pemrograman dengan tampilan antarmuka.
 
 3. Props (Properti)
-Props merupakan mekanisme untuk mengirimkan data dari komponen induk ke komponen anak. Dalam konteks fungsi JavaScript, Props dapat dianalogikan sebagai parameter yang menentukan apa yang akan ditampilkan oleh komponen tersebut.
+   Props merupakan mekanisme untuk mengirimkan data dari komponen induk ke komponen anak. Dalam konteks fungsi JavaScript, Props dapat dianalogikan sebagai parameter yang menentukan apa yang akan ditampilkan oleh komponen tersebut.
 
 4. State (Status)
-State adalah data internal dalam sebuah komponen yang dapat berubah seiring waktu.
+   State adalah data internal dalam sebuah komponen yang dapat berubah seiring waktu.
 
 Prinsip Dasar React: UI adalah representasi dari State. Jika data (State) berubah, maka tampilan (UI) akan diperbarui secara otomatis. React menggunakan Virtual DOM untuk mendeteksi perubahan tersebut dan melakukan pembaruan secara efisien tanpa memuat ulang seluruh halaman.
 
 ---
+
 ### Praktik Praktik Praktik
 
 ---
@@ -674,11 +667,11 @@ Sekian dari kita, semoga materi ini bermanfaat bagi teman - teman semua. Jangan 
 
 ## Referensi
 
--   <https://www.encora.com/insights/class-components-vs-functional-components-in-react>
--   <https://react.dev/reference/react/Component>
--   <https://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/>
--   <https://www.mendix.com/blog/asynchronous-vs-synchronous-programming/>
--   "Eloquent JavaScript" by Marijn Haverbeke
--   [Refactoring Guru](https://refactoring.guru/design-patterns)
--   Clean Code by Robert C. Martin
--   Refactoring Improving the Design of Existing Code
+- <https://www.encora.com/insights/class-components-vs-functional-components-in-react>
+- <https://react.dev/reference/react/Component>
+- <https://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers/>
+- <https://www.mendix.com/blog/asynchronous-vs-synchronous-programming/>
+- "Eloquent JavaScript" by Marijn Haverbeke
+- [Refactoring Guru](https://refactoring.guru/design-patterns)
+- Clean Code by Robert C. Martin
+- Refactoring Improving the Design of Existing Code
