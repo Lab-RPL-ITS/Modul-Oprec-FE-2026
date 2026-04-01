@@ -642,15 +642,9 @@ State adalah data internal dalam sebuah komponen yang dapat berubah seiring wakt
 Prinsip Dasar React: UI adalah representasi dari State. Jika data (State) berubah, maka tampilan (UI) akan diperbarui secara otomatis. React menggunakan Virtual DOM untuk mendeteksi perubahan tersebut dan melakukan pembaruan secara efisien tanpa memuat ulang seluruh halaman.
 
 ---
-### Praktik Latihan Library Frontend
+### Praktik Praktik Praktik
 
-Sebelumnya kita telah membuat sebuah aplikasi note app sederhana menggunakan HTML, CSS, dan JavaScript. Sekarang, kita akan memperbarui aplikasi tersebut dengan menggunakan library frontend.
-
-Dalam study case ini, kita akan menggunakan React JS untuk memperbarui aplikasi note app yang telah kita buat sebelumnya. Dengan menggunakan React JS, kita dapat membuat aplikasi web yang dinamis dan interaktif dengan mudah.
-
-Kenapa tidak langsung menggunakan framework? Karena dengan menggunakan library kita bisa lebih memahami konsep dasar dari pengembangan web. Setelah kita memahami konsep dasar, kita dapat mempelajari framework dengan lebih mudah.
-
-Selamat Menonton :)
+---
 
 ### Perlu Bantuan?
 
