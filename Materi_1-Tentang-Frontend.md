@@ -522,24 +522,24 @@ fetch("[https://api.example.com/data](https://api.example.com/data)")
     console.error("Ada masalah:", error);
   });
 ```
-Kekurangan Fetch API: > * Kita harus melakukan dua proses terpisah (menangkap respons, lalu mengubahnya menjadi .json()).
+**Kekurangan Fetch API:**
+* **Proses Berulang:** Kita harus melakukan dua proses terpisah (menangkap respons, lalu mengubahnya menjadi format JSON melalui `.json()`).
+* **Error Handling Terbatas:** Fetch tidak otomatis masuk ke blok `.catch()` kalau ada *error* HTTP dari server (misalnya: *error 404 Not Found* atau *500 Internal Server Error*). Ia hanya akan memicu *error* kalau koneksi internet pengguna benar-benar terputus.
 
-Fetch tidak otomatis masuk ke blok .catch() kalau ada error HTTP dari server (misal: error 404 Not Found atau 500 Internal Server Error). Ia hanya akan memicu error kalau koneksi internet pengguna benar-benar terputus.
 
 ### Axios
-Karena beberapa "kerepotan" pada Fetch API, komunitas frontend sering kali memilih menggunakan library tambahan bernama Axios. Axios adalah klien HTTP berbasis Promise yang sangat populer dan menjadi standar industri di ekosistem React maupun Vue.
 
-Kelebihan Axios dibandingkan Fetch:
+Karena beberapa "kerepotan" pada Fetch API, komunitas *frontend* sering kali memilih menggunakan *library* tambahan bernama **Axios**. Axios adalah klien HTTP berbasis *Promise* yang sangat populer dan menjadi standar industri di ekosistem React maupun Vue.
 
-Otomatis Parsing JSON: Data dari server otomatis diubah menjadi objek JavaScript, tidak perlu lagi memanggil .json().
+**Kelebihan Axios dibandingkan Fetch:**
+* **Otomatis Parsing JSON:** Data dari server otomatis diubah menjadi objek JavaScript, tidak perlu lagi memanggil `.json()`.
+* **Error Handling Lebih Cerdas:** Semua status kode HTTP di luar `2xx` (sukses) akan langsung dilempar ke dalam blok `.catch()`.
+* **Fitur Lanjutan:** Mendukung pembatalan *request* (*cancel request*), *interceptors*, dan perlindungan keamanan ekstra.
 
-Error Handling Lebih Cerdas: Semua status kode HTTP di luar 2xx (sukses) akan langsung dilempar ke dalam blok .catch().
-
-Fitur Lanjutan: Mendukung pembatalan request (cancel request), interceptors, dan perlindungan keamanan ekstra.
-
-Contoh penggunaan Axios:
+**Contoh penggunaan Axios:**
 
 ```
+javascript
 // Harus diinstal terlebih dahulu via terminal: npm install axios
 import axios from 'axios';
 
