@@ -54,9 +54,21 @@ Banyak yang nanya, *"Kalau fokus di Frontend, jenjang karirnya ke mana sih?"* Di
 
 Di lingkungan kampus kita sendiri, udah banyak *kating* dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
 
-* *(Isi dengan nama alumni 1)*
-* *(Isi dengan nama alumni 2)*
-* *(dan lain-lain)*
+* Lathifa Itqonina Mardiyati (Teknik Informatika 2019)
+* Rizqi Tsani (Teknik Informatika 2019)
+* Benedictus Wicaksono (Teknik Informatika 2020)
+* Muhammad Dzikri Syairozi (Teknik Informatika 2020)
+* Muhammad Yunus (Teknik Informatika 2020)
+* Frederick Hidayat (Teknik Informatika 2021)
+* Gabriella Natasya Br. Ginting (Teknik Informatika 2021)
+* Robby Ulung Pambudi (Teknik Informatika 2021)
+* Ainun Nadhifah Syamsiyah (Teknik Informatika 2022)
+* Farrell Matthew Lim (Teknik Informatika 2022)
+* Reynaldi Neo Ramadhani (Teknik Informatika 2022)
+* Andrew Wallace (Teknik Informatika 2023)
+* Paiz (Teknik Informatika 2023)
+* Aldin (Teknik Informatika 2023)
+* Nicholas (Teknik Informatika 2023)
 
 Jejak mereka ngebuktiin kalau fondasi yang kalian bangun di bangku kuliah, kalau ditekuni, bisa ngebawa kalian ke industri teknologi terdepan. Jadi, jangan ragu buat totalitas di sini!
 
