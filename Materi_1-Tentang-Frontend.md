@@ -552,15 +552,6 @@ axios.get("[https://api.example.com/data](https://api.example.com/data)")
     console.error("Terjadi kesalahan:", error.message);
   });
 ```
-
-### Praktik Latihan: Mengonsumsi API
-Meneruskan dari materi sebelumnya, kita akan menggunakan Fetch API atau Axios untuk memperbarui aplikasi Note App yang telah kita buat.
-
-Dalam study case ini, kita tidak lagi menyimpan data di penyimpanan lokal sementara, melainkan akan berlatih mengirim catatan (POST) ke server dan memuat daftar catatan (GET) dari server.
-
-
-Dalam contoh ini, kita menggunakan XMLHttpRequest untuk mengirim permintaan GET ke URL tertentu. Kemudian, kita menggunakan onreadystatechange untuk menangani respons yang diterima.
-
 ---
 
 ## Framework Frontend
