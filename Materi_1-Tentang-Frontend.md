@@ -329,7 +329,7 @@ Setelah kita mengerti dan memahami konsep dari Asinkron function selanjutnya ada
 Budi ingin membuat sebuah program yang menampilkan daftar nama 5 orang secara berurutan dengan delay 1 detik di antara setiap nama, dan kata hallo pada detik ke 2.
 
 ```typescript
-const names = ['Andi', 'Budi', 'Cici', 'Doni', 'Eko'];
+const names = ["Andi", "Budi", "Cici", "Doni", "Eko"];
 function displayNames() {
   for (let i = 0; i < names.length; i++) {
     setTimeout(() => {
@@ -337,7 +337,7 @@ function displayNames() {
     }, i * 1000);
   }
   setTimeout(() => {
-    console.log('hallo');
+    console.log("hallo");
   }, 2000);
 }
 
@@ -359,7 +359,7 @@ function fetchData(url, callback) {
   callback(data);
 }
 
-fetchData('https://api.example.com/data', (data) => {
+fetchData("https://api.example.com/data", (data) => {
   console.log(data); // Data tersedia setelah fetching selesai
 });
 ```
@@ -393,12 +393,12 @@ function fetchData(url) {
   });
 }
 
-fetchData('https://api.example.com/data')
+fetchData("https://api.example.com/data")
   .then((data) => {
-    console.log('Data diterima:', data);
+    console.log("Data diterima:", data);
   })
   .catch((error) => {
-    console.error('Error:', error);
+    console.error("Error:", error);
   });
 ```
 
@@ -440,7 +440,7 @@ console.log(addNumbers(5, 3)); // Output: 8
 
 ## Data Object Manipulation (DOM)
 
-![DOM](assets/modul-1/2-4.jpg)
+![DOM](assets/modul-1/DOM-Tree1.webp)
 
 Pasti teman-teman sudah tidak asing dengan materi pembahasan kali ini yaitu DOM. Document Object Model (DOM) adalah antarmuka pemrograman yang merepresentasikan struktur dan konten halaman web sebagai pohon objek. Setiap elemen dalam kode HTML, seperti paragraf, judul, gambar, dan formulir, sesuai dengan node di pohon ini.
 
@@ -509,19 +509,19 @@ Karena alasan-alasan inilah, industri beralih ke Framework/Library modern yang m
 **Contoh penggunaan Fetch API:**
 
 ```javascript
-fetch('https://api.example.com/data')
+fetch("https://api.example.com/data")
   .then((response) => {
     // Fetch tidak otomatis mengubah respons menjadi JSON, kita harus melakukannya manual
     if (!response.ok) {
-      throw new Error('Gagal mengambil data dari server');
+      throw new Error("Gagal mengambil data dari server");
     }
     return response.json();
   })
   .then((data) => {
-    console.log('Data berhasil diambil:', data);
+    console.log("Data berhasil diambil:", data);
   })
   .catch((error) => {
-    console.error('Ada masalah:', error);
+    console.error("Ada masalah:", error);
   });
 ```
 
@@ -614,7 +614,7 @@ Tailwind adalah sebuah _Utility-first CSS framework_. Berbeda dengan framework s
 **Contoh Implementasi Tombol dengan Tailwind CSS:**
 
 ```jsx
-<button className='bg-sky-500 hover:bg-sky-700 text-white font-bold py-2 px-4 rounded'>
+<button className="bg-sky-500 hover:bg-sky-700 text-white font-bold py-2 px-4 rounded">
   Klik Saya
 </button>
 ```
