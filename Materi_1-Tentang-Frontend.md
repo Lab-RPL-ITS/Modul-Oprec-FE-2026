@@ -93,7 +93,7 @@ Yang tentunya, teman-teman sudah pelajari dasar-dasarnya di mata kuliah Pemrogra
 ## 📈 Apakah akan terus belajar Frontend? (Evolusi Skill)
 
 Pas awal-awal mulai mendalami Frontend, mungkin kalian bakal ngerasa _overwhelmed_ (kewalahan) sama banyaknya hal yang harus dipelajari. Mulai dari CSS, Framework, State Management, sampai Build Tools.
-
+![Shaped](assets/modul-1/1-3.jpg)
 Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil _developer_. Evolusinya kira-kira dari **I, T, N, lalu M**:
 
 - **1. I-Shaped (Sang Spesialis Murni)** Ini adalah _developer_ yang punya pengetahuan sangat dalam di satu bidang spesifik (garis vertikal I), tapi kurang memiliki pemahaman di luar bidangnya. Misalnya, jago banget nge-React, tapi bingung kalau diajak diskusi soal cara kerja _database_ atau dasar desain UI/UX.
@@ -111,6 +111,8 @@ Biar nggak bingung arah, kita perlu kenalan sama konsep bentuk profil _developer
 Pada akhirnya, nggak ada yang salah mau jadi kayak gimana. Ini kan pada dasarnya sama aja kayak milih antara mau jadi spesialis atau generalis, dan itu murni pilihan. Tapi kalau untuk aku pribadi, di awal-awal mending fokus jadi **T-Shaped** dulu aja. Tau sedikit tentang bidang yang lain, tapi pastiin ada 1 bidang yang benar-benar didalemin.
 
 ## 🤖 Apakah Frontend Masih Relevan? Akankah Digantikan oleh AI?
+
+![AI](assets/modul-1/1-7.jpg)
 
 Di era di mana alat (_tools_) AI seperti ChatGPT, GitHub Copilot, hingga v0 dari Vercel mampu membuat _layout_ komponen web hanya dari sebaris _prompt_ dalam hitungan detik, sangat wajar jika muncul pertanyaan: _"Apakah peran Frontend Developer akan segera mati?"_ Jawabannya adalah **tidak**. Peran _Frontend_ tidak akan punah, tetapi cara kita bekerja dan menulis kode yang akan mengalami perubahan drastis. Pekerjaan repetitif seperti sekadar mengetik ulang desain statis menjadi struktur HTML dan CSS murni memang perlahan akan diambil alih oleh mesin. Namun, ini bukanlah sebuah ancaman, melainkan evolusi yang justru membebaskan kita dari tugas-tugas mekanis yang membosankan.
 
