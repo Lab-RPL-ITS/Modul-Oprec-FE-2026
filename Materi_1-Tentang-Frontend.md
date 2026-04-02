@@ -54,6 +54,7 @@ Banyak yang nanya, _"Kalau fokus di Frontend, jenjang karirnya ke mana sih?"_ Di
 - **Frontend Software Architect:** Menentukan _tech stack_ perusahaan, merancang _design system_ lintas platform, dan menyelesaikan masalah teknikal di level bisnis.
 
 Di lingkungan kampus kita sendiri, udah banyak _kating_ dan alumni Informatika ITS yang sukses ngebangun karir mantap di bidang Frontend. Beberapa di antaranya:
+![Peserta](assets/modul-1/peserta.png)
 
 - Lathifa Itqonina Mardiyati (Teknik Informatika 2019)
 - Rizqi Tsani (Teknik Informatika 2019)
@@ -67,8 +68,8 @@ Di lingkungan kampus kita sendiri, udah banyak _kating_ dan alumni Informatika I
 - Farrell Matthew Lim (Teknik Informatika 2022)
 - Reynaldi Neo Ramadhani (Teknik Informatika 2022)
 - Andrew Wallace (Teknik Informatika 2023)
-- Paiz (Teknik Informatika 2023)
-- Aldin (Teknik Informatika 2023)
+- Nur Muhammad Faiz (Teknik Informatika 2023)
+- Adri Fadhlansyah Aldinata (Teknik Informatika 2023)
 - Nicholas (Teknik Informatika 2023)
 
 Jejak mereka ngebuktiin kalau fondasi yang kalian bangun di bangku kuliah, kalau ditekuni, bisa ngebawa kalian ke industri teknologi terdepan. Jadi, jangan ragu buat totalitas di sini!
